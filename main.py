@@ -14,24 +14,24 @@ headers = {
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
 }
 
+def get():
+    url = f"https://landingfolio.com/api/template?page=1&sortBy=free-first"
+    
+    r = requests.get(url=url, headers=headers)
+    data = r.json()
+    for item in data:
+        print(item.get("title"))
+    try:
+        with open("result_list.json", "a") as file:
+            json.dump(r.json(), file, indent=4, ensure_ascii=False)
+    except Exception as ex:
+        print("json write error: ", ex)
 
 """Collectinlg data and return a json file"""
 def get_data_file():
     page = 1
     img_count = 0
     result_data = []
-    # url = f"https://landingfolio.com/api/template?page={page}&sortBy=free-first"
-    
-    # r = requests.get(url=url, headers=headers)
-    # data = r.json()
-    # for item in data:
-    #     print(item.get("title"))
-    # # try:
-    # #     with open("result_list.json", "a") as file:
-    # #         json.dump(r.json(), file, indent=4, ensure_ascii=False)
-    # # except Exception as ex:
-    # #     print("json write error: ", ex)
-
 
     for page in range(1, 11):
         url = f"https://landingfolio.com/api/template?page={page}&sortBy=free-first"
@@ -108,7 +108,8 @@ def main():
     # get_data_file()
     start_time = time.time()
 
-    print(download_imgs("result_list2.json"))
+    get()
+    # print(download_imgs("result_list2.json"))
 
     finish_time = time.time() - start_time
     print(f"Worked time: {finish_time}")

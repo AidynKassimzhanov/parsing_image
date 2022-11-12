@@ -1,0 +1,2647 @@
+[
+    {
+        "_id": "60778b192d6de00011f18350",
+        "description": "Spify Business Website Bootstrap HTML Template",
+        "title": "Spify",
+        "slug_history": [
+            "spify"
+        ],
+        "slug": "spify",
+        "postDate": "2021-04-15T00:38:19.350Z",
+        "previewUrl": "https://inovatik.com/spify/index.html",
+        "buyUrl": "https://inovatik.com/spify-business-website-bootstrap-html-template.html",
+        "creator": {
+            "name": "Inovatik",
+            "url": "https://inovatik.com"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page"
+        ],
+        "tags": [
+            "html",
+            "bootstrap"
+        ],
+        "images": {
+            "mobile": "1618447125486-spify-template-mobile.png",
+            "desktop": "1618447125508-spify-template-desktop.png"
+        },
+        "analytics": {
+            "views": 2087
+        }
+    },
+    {
+        "_id": "5e5b2965e1e7fdcb69fe887e",
+        "description": "Tailwind CSS landing page template containing: Fixed Header, Hero section - two columns for large screens and two rows for small screens, Promo and card content sections, Pricing Table and Call to Action section",
+        "title": "Landing",
+        "slug_history": [
+            "landing"
+        ],
+        "slug": "landing",
+        "postDate": "2019-12-26T00:00:00.000Z",
+        "previewUrl": "https://www.tailwindtoolbox.com/templates/landing-page-demo.php",
+        "buyUrl": "https://www.tailwindtoolbox.com/templates/landing-page",
+        "creator": {
+            "name": "Tailwind Toolbox",
+            "url": "https://www.tailwindtoolbox.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "startup",
+            "product"
+        ],
+        "tags": [
+            "tailwind"
+        ],
+        "images": {
+            "desktop": "1583032672319-landing-template-desktop.png",
+            "mobile": "1583032672322-landing-template-mobile.png"
+        },
+        "analytics": {
+            "views": 2078
+        }
+    },
+    {
+        "_id": "5e5b2ad6e1e7fdcb69fe8882",
+        "description": "Aria is a business focused free HTML landing page template built with Bootstrap to help you create lead generation websites for companies and their services. The design is clean and modern with a more restrained but efficient color scheme that will highlight your content without drawing attention from it.",
+        "title": "Aria",
+        "slug_history": [
+            "aria"
+        ],
+        "slug": "aria",
+        "postDate": "2019-10-04T00:00:00.000Z",
+        "previewUrl": "https://inovatik.com/aria-landing-page/index.html",
+        "buyUrl": "https://inovatik.com/aria-free-business-landing-page-template.html",
+        "creator": {
+            "name": "Inovatik",
+            "url": "https://inovatik.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "email-capture",
+            "portfolio"
+        ],
+        "tags": [
+            "html",
+            "bootstrap"
+        ],
+        "images": {
+            "mobile": "1583033040983-aria-template-mobile.png",
+            "desktop": "1583033041009-aria-template-desktop.png"
+        },
+        "analytics": {
+            "views": 2453
+        }
+    },
+    {
+        "_id": "5eacdab9065f753bd0a2e2d4",
+        "description": "Free landing page template built with HTML and Bootstrap for presenting training courses, classes, workshops and for convincing visitors to register using the form. It features countdown timer until the event date, image slider for previous editions, logo slider, details lightbox for additional information, video lightbox, text slider for testimonials, dropdown navigation, extra pages: article details, terms conditions, privacy policy, working registration, newsletter and contact forms.",
+        "title": "Corso",
+        "slug_history": [
+            "corso"
+        ],
+        "slug": "corso",
+        "postDate": "2020-05-02T02:27:09.979Z",
+        "previewUrl": "https://inovatik.com/corso-landing-page/index.html",
+        "buyUrl": "https://inovatik.com/corso-free-training-course-landing-page-html-template.html",
+        "creator": {
+            "name": "Inovatik",
+            "url": "https://inovatik.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "product",
+            "landing-page",
+            "email-capture"
+        ],
+        "tags": [
+            "bootstrap",
+            "html"
+        ],
+        "images": {
+            "mobile": "1588386468521-corso-template-mobile.png",
+            "desktop": "1588386468542-corso-template-desktop.png"
+        },
+        "analytics": {
+            "views": 1160
+        }
+    },
+    {
+        "_id": "5e5b2d92e1e7fdcb69fe8889",
+        "description": "This page has a focus on illustrations. This may limit your ability to display screenshots, but if those aren’t required to explain your app and these illustrations fit your product, then these illustrations can work wonders. Making something visual is always good, and combined with the right headline these illustrations could visualise a lot of things. If the artwork matches your app, this one could be for you",
+        "title": "Fusion",
+        "slug_history": [
+            "fusion"
+        ],
+        "slug": "fusion",
+        "postDate": "2019-06-05T00:00:00.000Z",
+        "previewUrl": "https://preview.uideck.com/items/fusion/",
+        "buyUrl": "https://uideck.com/templates/fusion-app-business-saas-product-landing-page-template/",
+        "creator": {
+            "name": "UI Deck",
+            "url": "https://uideck.com"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "startup",
+            "saas",
+            "product",
+            "mobile-app"
+        ],
+        "tags": [
+            "bootstrap",
+            "html"
+        ],
+        "images": {
+            "desktop": "1583033742439-fusion-template-desktop.png",
+            "mobile": "1583033742443-fusion-template-mobile.png"
+        },
+        "analytics": {
+            "views": 1424
+        }
+    },
+    {
+        "_id": "5f39f55537aa55172b10ae90",
+        "description": "Swipe is a free mobile application One Page Bootstrap 5 Template featuring sections such as about, testimonials, frequently asked questions, and two app download CTA sections.",
+        "title": "Swipe",
+        "slug_history": [
+            "swipe"
+        ],
+        "slug": "swipe",
+        "postDate": "2020-08-17T03:11:05.086Z",
+        "previewUrl": "https://demo.themesberg.com/swipe/",
+        "buyUrl": "https://themesberg.com/product/bootstrap/swipe-free-mobile-app-one-page-bootstrap-5-template",
+        "creator": {
+            "name": "Themesberg",
+            "url": "https://themesberg.com"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "startup",
+            "saas",
+            "product"
+        ],
+        "tags": [
+            "html",
+            "bootstrap"
+        ],
+        "images": {
+            "mobile": "1597633866055-swipe-template-mobile.png",
+            "desktop": "1597633866073-swipe-template-desktop.png"
+        },
+        "analytics": {
+            "views": 1529
+        }
+    },
+    {
+        "_id": "5e5b28e5e1e7fdcb69fe887d",
+        "description": "Running a startup and embarking yourself on a new bussiness a idea can be daring, the landing page must sell your product on first sight. This landing page made with Tailwind CSS, will make your idea look awesome with nice looking illustrations from Freepik.",
+        "title": "Social App",
+        "slug_history": [
+            "social-app"
+        ],
+        "slug": "social-app",
+        "postDate": "2019-12-26T00:00:00.000Z",
+        "previewUrl": "https://tailwindcomponents.com/template/social-app-landing-page",
+        "buyUrl": "https://tailwindcomponents.com/template/social-app-landing-page",
+        "creator": {
+            "name": "Tailwind Components",
+            "url": "https://tailwindcomponents.com"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "portfolio"
+        ],
+        "tags": [
+            "tailwind"
+        ],
+        "images": {
+            "desktop": "components/1583032516330_landing___medialibrary_original_578_16701png",
+            "mobile": "components/1583032516238_landing___medialibrary_original_578_1670png"
+        },
+        "analytics": {
+            "views": 2223
+        }
+    },
+    {
+        "_id": "5e5b2ddbe1e7fdcb69fe888a",
+        "description": "Purple is a colour that gives off feelings of importance and value. If your app is meant to give off a sense of luxury, this colour palette could strengthen that. It also has scroll effects, with all elements fading in while scrolling. While they do halt your progress, they also make sure you at least look at every element on the page.",
+        "title": "Kairos",
+        "slug_history": [
+            "kairos"
+        ],
+        "slug": "kairos",
+        "postDate": "2019-06-05T00:00:00.000Z",
+        "previewUrl": "https://templatemag.com/demo/templates/CleanLanding/index.html",
+        "buyUrl": "https://templatemag.com/cleanlanding-bootstrap-landing-template/",
+        "creator": {
+            "name": "TemplateMag",
+            "url": "https://templatemag.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "mobile-app"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "mobile": "1583033815820-kairos-template-mobile.png",
+            "desktop": "1583033815821-kairos-template-desktop.png"
+        },
+        "analytics": {
+            "views": 454
+        }
+    },
+    {
+        "_id": "5e5b2b12e1e7fdcb69fe8883",
+        "description": "Create a stylish landing page for your business startup and get leads for the offered services with this free Bootstrap 4 based HTML landing page template. Built with Bootstrap 4, HTML/CSS and JS it features image slider for partner logos, text slider for testimonials, details lightbox for additional information, video lightbox, extra pages like terms conditions and privacy policy",
+        "title": "Evolo",
+        "slug_history": [
+            "evolo"
+        ],
+        "slug": "evolo",
+        "postDate": "2019-08-12T00:00:00.000Z",
+        "previewUrl": "https://inovatik.com/evolo-landing-page/index.html",
+        "buyUrl": "https://inovatik.com/evolo-free-startup-landing-page-template.html",
+        "creator": {
+            "name": "Inovatik",
+            "url": "https://inovatik.com"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "startup",
+            "saas",
+            "product"
+        ],
+        "tags": [
+            "bootstrap",
+            "html"
+        ],
+        "images": {
+            "desktop": "1583033102799-evolo-template-desktop.png",
+            "mobile": "1583033102800-evolo-template-mobile.png"
+        },
+        "analytics": {
+            "views": 1755
+        }
+    },
+    {
+        "_id": "5e5b29d5e1e7fdcb69fe887f",
+        "description": "Tailwind CSS starter template containing: Fixed Header, Hero section - with a CSS browser window for your app/website screenshot, Promo and card content sections, Pricing Table and Call to Action section",
+        "title": "Bolt App",
+        "slug_history": [
+            "bolt-app"
+        ],
+        "slug": "bolt-app",
+        "postDate": "2019-12-26T00:00:00.000Z",
+        "previewUrl": "https://www.tailwindtoolbox.com/templates/screenshot-landing-page-demo.php",
+        "buyUrl": "https://www.tailwindtoolbox.com/templates/screenshot-landing-page",
+        "creator": {
+            "name": "Tailwind Toolbox",
+            "url": "https://www.tailwindtoolbox.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "startup",
+            "multi-purpose",
+            "saas",
+            "product"
+        ],
+        "tags": [
+            "tailwind"
+        ],
+        "images": {
+            "desktop": "1583032786883-bolt-app-template-desktop.png",
+            "mobile": "1583032786883-bolt-app-template-mobile.png"
+        },
+        "analytics": {
+            "views": 1346
+        }
+    },
+    {
+        "_id": "5e5b1ce9b8938ec8f68cb17c",
+        "description": "Sync is a landing page HTML template built with Bootstrap 4 for presenting mobile apps to the online audience and for getting visitors to become users.",
+        "title": "Sync",
+        "slug_history": [
+            "sync"
+        ],
+        "slug": "sync",
+        "postDate": "2020-01-05T00:00:00.000Z",
+        "previewUrl": "https://inovatik.com/sync-landing-page/index.html",
+        "buyUrl": "https://inovatik.com/sync-free-mobile-app-landing-page-html-template.html",
+        "creator": {
+            "name": "Inovatik",
+            "url": "https://inovatik.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "mobile-app"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "desktop": "1583029476417-sync-template-desktop.png",
+            "mobile": "1583029476414-sync-template-mobile.png"
+        },
+        "analytics": {
+            "views": 959
+        }
+    },
+    {
+        "_id": "5e5b2e9d06d296ce8f435e7d",
+        "description": "Dazzle feels like it’s appealing to the creative types. The image as a background above the fold, the solid use of the fresh colour of green, the numbered circles describing the process and the way the screenshots are laid out almost give it a portfolio-like quality to me. This can work in your favour by making the experience feel a lot more personal. It feels like you’re dealing with a person, not a company or a product.",
+        "title": "Dazzle",
+        "slug_history": [
+            "dazzle"
+        ],
+        "slug": "dazzle",
+        "postDate": "2019-06-05T00:00:00.000Z",
+        "previewUrl": "https://demos.onepagelove.com/html/dazzle/",
+        "buyUrl": "https://onepagelove.com/dazzle",
+        "creator": {
+            "name": "One Page Love",
+            "url": "https://onepagelove.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "mobile-app"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "mobile": "1583034008872-dazzle-template-mobile.png",
+            "desktop": "1583034008875-dazzle-template-desktop.png"
+        },
+        "analytics": {
+            "views": 632
+        }
+    },
+    {
+        "_id": "5ec0ce35f75dbc6fec979b68",
+        "description": "Start developing neumorphism (aka. neomorphism) inspired layouts, web apps and pages with this free UI Kit. It features over 200 individual components and 5 example pages. Neumorphism UI makes use of the original neumorphism design specs.",
+        "title": "Neumorphism UI",
+        "slug_history": [
+            "neumorphism-ui"
+        ],
+        "slug": "neumorphism-ui",
+        "postDate": "2020-05-17T05:39:36.130Z",
+        "previewUrl": "https://demo.themesberg.com/neumorphism-ui/",
+        "buyUrl": "https://themesberg.com/product/ui-kits/neumorphism-ui-kit-bootstrap",
+        "creator": {
+            "name": "Themesberg",
+            "url": "https://www.themesberg.com"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "multi-purpose"
+        ],
+        "tags": [
+            "html",
+            "bootstrap"
+        ],
+        "images": {
+            "desktop": "1589693997704-neumorphism-ui-template-desktop.png",
+            "mobile": "1589693997724-neumorphism-ui-template-mobile.png"
+        },
+        "analytics": {
+            "views": 835
+        }
+    },
+    {
+        "_id": "5e5b2e4b06d296ce8f435e7c",
+        "description": "Above the fold it’s direct and to-the-point. There’s a phone with a screenshot, a CTA and a headline. This, combined with the bold font, really allows the headline to steal the show. If you have a strong value proposition, it won’t be lost here. Otherwise, this template gains its visual appeal from the smaller things like the polka dots and circles around the second screenshot and the limited, subtle use of colour which simultaneously allows the colour to pop more.",
+        "title": "The SEO Company",
+        "slug_history": [
+            "the-seo-company"
+        ],
+        "slug": "the-seo-company",
+        "postDate": "2019-06-05T00:00:00.000Z",
+        "previewUrl": "https://technext.github.io/the-seo-company/",
+        "buyUrl": "https://themewagon.com/themes/seo-company-free-bootstrap-4-html5-professional-business-website-template/",
+        "creator": {
+            "name": "Theme Wagon",
+            "url": "https://themewagon.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "mobile-app"
+        ],
+        "tags": [
+            "html",
+            "bootstrap"
+        ],
+        "images": {
+            "desktop": "1583033927803-the-seo-company-template-desktop.png",
+            "mobile": "1583033927804-the-seo-company-template-mobile.png"
+        },
+        "analytics": {
+            "views": 425
+        }
+    },
+    {
+        "_id": "5e5b2caee1e7fdcb69fe8887",
+        "description": "Leno is a free mobile app HTML landing page template which helps designers and developers present their mobile apps to the online audience and grow their user base. It features a stylish dark design with modern touches to provide a memorable experience to the online visitor. It offers all the sections required to present a mobile application and a fully functioning contact form.",
+        "title": "Leno",
+        "slug_history": [
+            "leno"
+        ],
+        "slug": "leno",
+        "postDate": "2019-06-11T00:00:00.000Z",
+        "previewUrl": "https://inovatik.com/leno-landing-page/index.html",
+        "buyUrl": "https://inovatik.com/leno-free-mobile-app-landing-page-template.html",
+        "creator": {
+            "name": "Inovatik",
+            "url": "https://inovatik.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "mobile-app"
+        ],
+        "tags": [
+            "bootstrap",
+            "html"
+        ],
+        "images": {
+            "mobile": "1583033512036-leno-template-mobile.png",
+            "desktop": "1583033512043-leno-template-desktop.png"
+        },
+        "analytics": {
+            "views": 1496
+        }
+    },
+    {
+        "_id": "5e5b2d2ce1e7fdcb69fe8888",
+        "description": "Laurel is clearly going for the modern, cool and stylish vibe. It’s warm colours, dark colour pallette and serif font build this feeling quite well. This page is not meant just to show off features. This one is much better for apps that primarily score on style. This one’s for apps that people get because they’re cool and stylish, not per se because it’ll functionally help them.",
+        "title": "Laurel",
+        "slug_history": [
+            "laurel"
+        ],
+        "slug": "laurel",
+        "postDate": "2019-06-05T00:00:00.000Z",
+        "previewUrl": "https://preview.cruip.com/laurel/",
+        "buyUrl": "https://cruip.com/free-templates/",
+        "creator": {
+            "name": "Cruip",
+            "url": "https://cruip.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "mobile-app"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "mobile": "1583033640227-laurel-template-mobile.png",
+            "desktop": "1583033640231-laurel-template-desktop.png"
+        },
+        "analytics": {
+            "views": 863
+        }
+    },
+    {
+        "_id": "5f0d5405fbc70e33ddd4f91b",
+        "description": "Avid is a free SaaS app landing page template built with Bootstrap and HTML to help you create beautiful and efficient online presentations for your web apps and convince visitors to sign up.",
+        "title": "Avid",
+        "slug_history": [
+            "avid"
+        ],
+        "slug": "avid",
+        "postDate": "2020-07-14T06:42:51.898Z",
+        "previewUrl": "https://inovatik.com/avid-landing-page/index.html",
+        "buyUrl": "https://inovatik.com/avid-saas-app-landing-page-template.html",
+        "creator": {
+            "name": "Inovatik",
+            "url": "https://inovatik.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "startup",
+            "landing-page",
+            "saas"
+        ],
+        "tags": [
+            "bootstrap",
+            "html"
+        ],
+        "images": {
+            "mobile": "components/1594708889926_avidlandingpagetemplatemobilepng",
+            "desktop": "components/1594708890305_avidlandingpagetemplatedesktoppng"
+        },
+        "analytics": {
+            "views": 1029
+        }
+    },
+    {
+        "_id": "5e5b2a88e1e7fdcb69fe8881",
+        "description": "Tivo is a free HTML landing page template built with Bootstrap to help you crate engaging presentation websites for SaaS apps and convert visitors into users. Tivo features a clean, light design style which together with the tech blue color scheme will create a memorable experience for your online visitors and persuade them to start using your SaaS app.",
+        "title": "Tivo",
+        "slug_history": [
+            "tivo"
+        ],
+        "slug": "tivo",
+        "postDate": "2019-10-04T00:00:00.000Z",
+        "previewUrl": "https://inovatik.com/tivo-landing-page/index.html",
+        "buyUrl": "https://inovatik.com/tivo-free-saas-app-landing-page-template.html",
+        "creator": {
+            "name": "Inovatik",
+            "url": "https://inovatik.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "saas"
+        ],
+        "tags": [
+            "html",
+            "bootstrap"
+        ],
+        "images": {
+            "desktop": "1583032965084-tivo-template-desktop.png",
+            "mobile": "1583032965084-tivo-template-mobile.png"
+        },
+        "analytics": {
+            "views": 1319
+        }
+    },
+    {
+        "_id": "5e5b2833e1e7fdcb69fe887b",
+        "description": "Tailwind Starter Kit is Free and Open Source. It does not change or add any CSS to the already one from TailwindCSS. It features multiple HTML elements and it comes with dynamic components for ReactJS, Vue and Angular.",
+        "title": "Tailwind Starter Kit",
+        "slug_history": [
+            "tailwind-starter-kit"
+        ],
+        "slug": "tailwind-starter-kit",
+        "postDate": "2019-12-26T00:00:00.000Z",
+        "previewUrl": "https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation",
+        "buyUrl": "https://github.com/creativetimofficial/tailwind-starter-kit?ref=creativetim-tailwind-download",
+        "creator": {
+            "name": "Creative Tim",
+            "url": "https://www.creative-tim.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "startup",
+            "saas",
+            "product"
+        ],
+        "tags": [
+            "tailwind"
+        ],
+        "images": {
+            "mobile": "components/1583032291902_screencapturecreativetimlearninglabtailwindstarterkit2020030111_11_08png",
+            "desktop": "components/1583032292483_screencapturecreativetimlearninglabtailwindstarterkit2020030111_10_25png"
+        },
+        "analytics": {
+            "views": 1495
+        }
+    },
+    {
+        "_id": "5e5b1c24b8938ec8f68cb17b",
+        "description": "Ten templates, four colors, three devices, unlimited possibilities. Give your app the podium it deserves with AppLanding, a simple app landing page template easily customizable to your style. Made with Bootstrap 4 HTML.",
+        "title": "AppLanding",
+        "slug_history": [
+            "applanding"
+        ],
+        "slug": "applanding",
+        "postDate": "2020-01-05T00:00:00.000Z",
+        "previewUrl": "https://www.landingfolio.com/store/applanding/",
+        "buyUrl": "https://www.landingfolio.com/store/applanding/",
+        "creator": {
+            "name": "Landingfolio",
+            "url": "https://www.landingfolio.com"
+        },
+        "price": 900,
+        "categories": [
+            "templates",
+            "landing-page",
+            "mobile-app"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "mobile": "1583029278607-applanding-template-mobile.png",
+            "desktop": "1583029278652-applanding-template-desktop.png"
+        },
+        "analytics": {
+            "views": 445
+        }
+    },
+    {
+        "_id": "5e5b1bdcb8938ec8f68cb17a",
+        "description": "Lintense is an all-in-one landing page template that claims to provide web-masters with a large number of essential options. The package contains 12 beautifully-designed templates for different purposes. It also includes an easy-to-use Novi Builder that allows editing your content without any coding knowledge.",
+        "title": "Lintense",
+        "slug_history": [
+            "lintense"
+        ],
+        "slug": "lintense",
+        "postDate": "2020-01-20T00:00:00.000Z",
+        "previewUrl": "https://livedemo00.template-help.com/wt_prod-25028/lintense-2.0/lintense/",
+        "buyUrl": "https://www.templatemonster.com/landing-page-template/all-in-one-landing-page-lintense/",
+        "creator": {
+            "name": "Template Monster",
+            "url": "https://www.templatemonster.com/"
+        },
+        "price": 1000,
+        "categories": [
+            "templates",
+            "multi-purpose",
+            "mobile-app",
+            "book",
+            "landing-page"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "mobile": "1583029207661-lintense-template-mobile.png",
+            "desktop": "1583029207666-lintense-template-desktop.png"
+        },
+        "analytics": {
+            "views": 608
+        }
+    },
+    {
+        "_id": "5e5b47ac06d296ce8f435e98",
+        "description": "Howdy is a clean and modern high-converting landing page template, very easy to customize according to your needs. This landing page template can be used to promote web apps, mobile apps and all kind of marketing and startup websites. Quick and easy to setup.",
+        "title": "Howdy",
+        "slug_history": [
+            "howdy"
+        ],
+        "slug": "howdy",
+        "postDate": "2019-02-19T00:00:00.000Z",
+        "previewUrl": "http://demo.epic-webdesign.com/tf-howdy/v1/",
+        "buyUrl": "https://themeforest.net/item/howdy-multipurpose-highconverting-landing-page-template/22610725?s_rank=25",
+        "creator": {
+            "name": "Epic Webdesign",
+            "url": "https://themeforest.net"
+        },
+        "price": 1100,
+        "categories": [
+            "templates",
+            "landing-page",
+            "multi-purpose",
+            "email-capture"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "desktop": "1583040423674-howdy-template-desktop.png",
+            "mobile": "1583040423692-howdy-template-mobile.png"
+        },
+        "analytics": {
+            "views": 445
+        }
+    },
+    {
+        "_id": "5e5b48f306d296ce8f435e9b",
+        "description": "Appilo App Landing page Template is a Creative & Unique Design Clean and Responsive HTML5/CSS3 App landing page based on Bootstrap All files are clearly organised we believe it will be easy to use and edit them. This template is well organized and very easy to customize.",
+        "title": "Appilo",
+        "slug_history": [
+            "appilo"
+        ],
+        "slug": "appilo",
+        "postDate": "2019-02-19T00:00:00.000Z",
+        "previewUrl": "http://themexriver.com/tfhtml/appilo/",
+        "buyUrl": "https://themeforest.net/item/appilo-app-landing-page/22227898",
+        "creator": {
+            "name": "Themexriver",
+            "url": "https://themexriver.com/"
+        },
+        "price": 1200,
+        "categories": [
+            "templates",
+            "landing-page",
+            "mobile-app"
+        ],
+        "tags": [
+            "bootstrap",
+            "html"
+        ],
+        "images": {
+            "mobile": "1583040747673-appilo-template-mobile.png",
+            "desktop": "1583040747687-appilo-template-desktop.png"
+        },
+        "analytics": {
+            "views": 602
+        }
+    },
+    {
+        "_id": "5e8f03a221b8112cc2c221fc",
+        "description": "Omega is a HTML5 landing page template for Saas Products, Software, Startups, Apps and many other related services. It is 100% responsive in all devices and built on top of Bootstrap 4 framework.",
+        "title": "Omega",
+        "slug_history": [
+            "omega"
+        ],
+        "slug": "omega",
+        "postDate": "2020-04-09T11:14:35.372Z",
+        "previewUrl": "https://demos.grayic.com/omega/landing-5.html",
+        "buyUrl": "https://themeforest.net/item/omega-landing-page-template-for-saas-startup-agency/26160025",
+        "creator": {
+            "name": "Grayic",
+            "url": "https://grayic.com/"
+        },
+        "price": 1200,
+        "categories": [
+            "templates",
+            "landing-page",
+            "startup",
+            "mobile-app",
+            "saas"
+        ],
+        "tags": [
+            "bootstrap",
+            "html"
+        ],
+        "images": {
+            "mobile": "1586430876776-omega-template-mobile.png",
+            "desktop": "1586430876796-omega-template-desktop.png"
+        },
+        "analytics": {
+            "views": 910
+        }
+    },
+    {
+        "_id": "5e5b463406d296ce8f435e94",
+        "description": "Rupa is a single product landing page html5 template. You can use it for online product marketing purposes. Anyone can use it both digital or physical product marketing purposes. It is 100% responsive landing page. You can easily customize it without any trouble.",
+        "title": "Rupa",
+        "slug_history": [
+            "rupa"
+        ],
+        "slug": "rupa",
+        "postDate": "2019-02-19T00:00:00.000Z",
+        "previewUrl": "http://rexbd.net/html/rupa/demo/index.html",
+        "buyUrl": "https://themeforest.net/item/rupa-product-landing-page/21522020",
+        "creator": {
+            "name": "RexBD",
+            "url": "http://rexbd.net/"
+        },
+        "price": 1300,
+        "categories": [
+            "templates",
+            "landing-page",
+            "product"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "mobile": "1583040048125-rupa-template-mobile.png",
+            "desktop": "1583040048130-rupa-template-desktop.png"
+        },
+        "analytics": {
+            "views": 370
+        }
+    },
+    {
+        "_id": "5e5b484b06d296ce8f435e99",
+        "description": "Siroon is unique and modern landing page design for showing off your mobile app. Built on Bootstrap v4 and being fully responsive, this template is sure to serve your needs regardless of what your app is.",
+        "title": "Siroon",
+        "slug_history": [
+            "siroon"
+        ],
+        "slug": "siroon",
+        "postDate": "2019-02-19T00:00:00.000Z",
+        "previewUrl": "http://aramvardanyan.me/siroon/",
+        "buyUrl": "https://themeforest.net/item/app-landing-page-siroon/22650726",
+        "creator": {
+            "name": "Aram Vardanyan",
+            "url": "http://aramvardanyan.me"
+        },
+        "price": 1300,
+        "categories": [
+            "templates",
+            "landing-page",
+            "mobile-app"
+        ],
+        "tags": [
+            "bootstrap",
+            "html"
+        ],
+        "images": {
+            "mobile": "1583040582356-siroon-template-mobile.png",
+            "desktop": "1583040582360-siroon-template-desktop.png"
+        },
+        "analytics": {
+            "views": 586
+        }
+    },
+    {
+        "_id": "5e5b4b6c06d296ce8f435e9e",
+        "description": "Ramio is clean and solid coming soon and landing page HTML template. Create excitement around your brand with Ramio! Ramio comes with 4 color skins and 16 ready-to-use demo variations – ñhoose the best for your start. Beautifully animated content sections with smooth transition effect will help you to represent your brand at its best.",
+        "title": "Ramio",
+        "slug_history": [
+            "ramio"
+        ],
+        "slug": "ramio",
+        "postDate": "2019-02-19T00:00:00.000Z",
+        "previewUrl": "http://mixdesign.club/themeforest/ramio/index-monochrome-image.html",
+        "buyUrl": "https://themeforest.net/item/ramio-clean-coming-soon-and-landing-page-template/21711113?s_rank=11",
+        "creator": {
+            "name": "Mixdesign",
+            "url": "http://mixdesign.club"
+        },
+        "price": 1400,
+        "categories": [
+            "templates",
+            "coming-soon"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "desktop": "1583041380249-ramio-template-desktop.png",
+            "mobile": "1583041380257-ramio-template-mobile.png"
+        },
+        "analytics": {
+            "views": 215
+        }
+    },
+    {
+        "_id": "5e5b342b06d296ce8f435e89",
+        "description": "Portum is a HTML5 template based on Boostrap4.x for variety of single product landing pages. It’s come with modern layout & clean design. Portum has 3 unique landing page with 6 different option for each landing page, and it included 10 different color preset, so matched with you brand. Also you can set your own color & it’s very easy to use.",
+        "title": "Portum",
+        "slug_history": [
+            "portum"
+        ],
+        "slug": "portum",
+        "postDate": "2019-02-19T00:00:00.000Z",
+        "previewUrl": "http://demo.themesurf.com/portum/",
+        "buyUrl": "https://themeforest.net/item/portum-single-product-landing-intro-page-html-template/21716186?s_rank=21",
+        "creator": {
+            "name": "ThemeSurf",
+            "url": "http://demo.themesurf.com/"
+        },
+        "price": 1400,
+        "categories": [
+            "templates",
+            "landing-page",
+            "product"
+        ],
+        "tags": [
+            "bootstrap",
+            "html"
+        ],
+        "images": {
+            "mobile": "1583035430574-portum-template-mobile.png",
+            "desktop": "1583035430579-portum-template-desktop.png"
+        },
+        "analytics": {
+            "views": 391
+        }
+    },
+    {
+        "_id": "5e5b49bb06d296ce8f435e9d",
+        "description": "MobiCom is a pixel perfect Mobile App Landing Pages Big Pack crafted with terrific attention to details. It was designed to promote your mobile App, services or business projects",
+        "title": "MobiCom",
+        "slug_history": [
+            "mobicom"
+        ],
+        "slug": "mobicom",
+        "postDate": "2019-02-19T00:00:00.000Z",
+        "previewUrl": "https://html.dynamiclayers.net/at/enovo/index.html",
+        "buyUrl": "https://themeforest.net/item/mobicom-mobile-app-landing-pages-pack/21974201?s_rank=29",
+        "creator": {
+            "name": "Dsathemes",
+            "url": "https://dsathemes.com/"
+        },
+        "price": 1500,
+        "categories": [
+            "templates",
+            "landing-page",
+            "mobile-app"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "mobile": "1583040951596-mobicom-template-mobile.png",
+            "desktop": "1583040951600-mobicom-template-desktop.png"
+        },
+        "analytics": {
+            "views": 338
+        }
+    },
+    {
+        "_id": "5e72ffa163b2fb53d3d84f71",
+        "description": "A great collection of flexible, ultra-modern & creative landing page templates to promote your mobile App, services or business projects",
+        "title": "AppSet",
+        "slug_history": [
+            "appset"
+        ],
+        "slug": "appset",
+        "postDate": "2020-03-19T05:13:11.555Z",
+        "previewUrl": "https://dsathemes.com/html/appset/files/demo-3.html",
+        "buyUrl": "https://themeforest.net/item/appset-app-landing-pages-pack/22735113?s_rank=8",
+        "creator": {
+            "name": "Dsa Themes",
+            "url": "https://dsathemes.com/"
+        },
+        "price": 1500,
+        "categories": [
+            "templates",
+            "landing-page",
+            "mobile-app"
+        ],
+        "tags": [
+            "wordpress",
+            "html",
+            "bootstrap"
+        ],
+        "images": {
+            "mobile": "1584594840861-appset-template-mobile.png",
+            "desktop": "1584594840880-appset-template-desktop.png"
+        },
+        "analytics": {
+            "views": 513
+        }
+    },
+    {
+        "_id": "5e5b475c06d296ce8f435e97",
+        "description": "Ready Made is a Multipurpose Landing Page Template Bundle designed to use for any kind of local business or startups. Clean and Modern design. Best Conversion optimized Landing page Template. 10+ Responsive HTML layouts including Email contact form, lead generation, click-through, Ajax Mailchimp Subscription, Click to call, Video, Web App, Mobile App, Blog page etc… Easily customizable landing pages.",
+        "title": "ReadyMade",
+        "slug_history": [
+            "readymade"
+        ],
+        "slug": "readymade",
+        "postDate": "2019-02-19T00:00:00.000Z",
+        "previewUrl": "https://demo.web3canvas.com/themeforest/readymade/default.html",
+        "buyUrl": "https://themeforest.net/item/multipurpose-landing-page-template-readymade/10477881?s_rank=19",
+        "creator": {
+            "name": "W3C",
+            "url": "https://web3canvas.com/"
+        },
+        "price": 1500,
+        "categories": [
+            "templates",
+            "landing-page",
+            "multi-purpose",
+            "email-capture",
+            "saas",
+            "startup"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "desktop": "1583040345770-readymade-template-desktop.png",
+            "mobile": "1583040345775-readymade-template-mobile.png"
+        },
+        "analytics": {
+            "views": 582
+        }
+    },
+    {
+        "_id": "5e73000763b2fb53d3d84f72",
+        "description": "A great collection of flexible, ultra modern & creative landing page templates to promote your mobile App, services or business projects",
+        "title": "AppSet",
+        "slug_history": [
+            "appset-1"
+        ],
+        "slug": "appset-1",
+        "postDate": "2020-03-19T05:14:59.983Z",
+        "previewUrl": "https://dsathemes.com/html/appset/files/demo-4.html",
+        "buyUrl": "https://themeforest.net/item/appset-app-landing-pages-pack/22735113?s_rank=8",
+        "creator": {
+            "name": "Dsa Themes",
+            "url": "https://dsathemes.com/"
+        },
+        "price": 1500,
+        "categories": [
+            "templates",
+            "landing-page",
+            "mobile-app"
+        ],
+        "tags": [
+            "wordpress",
+            "bootstrap",
+            "html"
+        ],
+        "images": {
+            "mobile": "1584594943738-appset-template-mobile.png",
+            "desktop": "1584594943749-appset-template-desktop.png"
+        },
+        "analytics": {
+            "views": 709
+        }
+    },
+    {
+        "_id": "5e5b46ec06d296ce8f435e96",
+        "description": "Adele is a responsive HTML Landing page for promoting supplementary products. The template is perfect for both lead generation and conversion purposes with easy customization and user-friendly layout.",
+        "title": "Adele",
+        "slug_history": [
+            "adele"
+        ],
+        "slug": "adele",
+        "postDate": "2019-02-19T00:00:00.000Z",
+        "previewUrl": "http://divsketch.com/adele/",
+        "buyUrl": "https://themeforest.net/item/adele-responsive-supplement-landing-page/14769605?s_rank=27",
+        "creator": {
+            "name": "Div Sketch",
+            "url": "http://divsketch.com"
+        },
+        "price": 1500,
+        "categories": [
+            "templates",
+            "landing-page",
+            "product"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "desktop": "1583040232339-adele-template-desktop.png",
+            "mobile": "1583040232343-adele-template-mobile.png"
+        },
+        "analytics": {
+            "views": 310
+        }
+    },
+    {
+        "_id": "5e5b493806d296ce8f435e9c",
+        "description": "Kinetic is an elegant, luxury and trendy App Landing HTML5 template. It is a very simple, clean and minimalist template. It perfectly suited for the website of App, software. The template looks great and it will appeal to fans of minimalist style. Template content is based on Bootstrap System.",
+        "title": "Kinetic",
+        "slug_history": [
+            "kinetic"
+        ],
+        "slug": "kinetic",
+        "postDate": "2019-02-19T00:00:00.000Z",
+        "previewUrl": "http://nunforest.com/kinetic/",
+        "buyUrl": "https://themeforest.net/item/kinetic-app-landing-page/22767043?s_rank=5",
+        "creator": {
+            "name": "Nunforest",
+            "url": "http://nunforest.com/"
+        },
+        "price": 1500,
+        "categories": [
+            "templates",
+            "landing-page",
+            "mobile-app"
+        ],
+        "tags": [
+            "html",
+            "bootstrap"
+        ],
+        "images": {
+            "mobile": "1583040821185-kinetic-template-mobile.png",
+            "desktop": "1583040821189-kinetic-template-desktop.png"
+        },
+        "analytics": {
+            "views": 332
+        }
+    },
+    {
+        "_id": "5e9ff247dd65811d0b6b56eb",
+        "description": "If you want to succeed in the world of educational courses, you need to establish an excellent online presence. Together with this multi-functional landing page template, you can achieve this goal. It offers a fully-editable nature. You are free to make all the edits you consider to be important. To make your website more engaging, it is possible to add a few animation effects. People get a chance to choose the desired course, thanks to a user-friendly booking form. In addition to this, you will get a cross-browser compatible design. Your visitors can view your pieces of content using all the modern browsers.",
+        "title": "Lintense",
+        "slug_history": [
+            "lintense-1"
+        ],
+        "slug": "lintense-1",
+        "postDate": "2020-04-22T07:28:39.050Z",
+        "previewUrl": "https://www.templatemonster.com/demo/87738.html?aff=landingfolio&utm_campaign=course_landingfolio&utm_source=landingfolio&utm_medium=referral",
+        "buyUrl": "https://www.templatemonster.com/landing-page-template/lintense-course-education-clean-html-landing-page-template-87738.html?aff=landingfolio&utm_campaign=course_landingfolio&utm_source=landingfolio&utm_medium=referral",
+        "creator": {
+            "name": "Template Monster",
+            "url": "https://www.templatemonster.com/"
+        },
+        "price": 1600,
+        "categories": [
+            "templates",
+            "product",
+            "landing-page"
+        ],
+        "tags": [
+            "html",
+            "bootstrap"
+        ],
+        "images": {
+            "mobile": "1587540542116-lintense-template-mobile.png",
+            "desktop": "1587540542134-lintense-template-desktop.png"
+        },
+        "analytics": {
+            "views": 645
+        }
+    },
+    {
+        "_id": "5e9922d1dd65811d0b6b56d7",
+        "description": "Omega is a HTML5 landing page template for various types of Saas Products, Software, Startups, Apps and many other related services. It is 100% responsive in all devices and looks beautiful on every single device! Your users will love your site because it gives them a unique user experience (UX), clean, modern & beautiful design. They are also easy to customize and to combine with other components.",
+        "title": "Omega eBook",
+        "slug_history": [
+            "omega-ebook"
+        ],
+        "slug": "omega-ebook",
+        "postDate": "2020-04-17T03:30:04.304Z",
+        "previewUrl": "https://demos.grayic.com/omega/landing-6.html",
+        "buyUrl": "https://grayic.com/omega-ebook",
+        "creator": {
+            "name": "Grayic",
+            "url": "https://grayic.com/"
+        },
+        "price": 1600,
+        "categories": [
+            "templates",
+            "book"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "desktop": "1587094220606-omega-ebook-template-desktop.png",
+            "mobile": "1587094220625-omega-ebook-template-mobile.png"
+        },
+        "analytics": {
+            "views": 364
+        }
+    },
+    {
+        "_id": "5e883480cb02190667635231",
+        "description": "Recruiting Agency Landing Page HTML Template",
+        "title": "Viso",
+        "slug_history": [
+            "viso"
+        ],
+        "slug": "viso",
+        "postDate": "2020-04-04T07:16:31.476Z",
+        "previewUrl": "https://inovatik.com/viso-landing-page/index.html",
+        "buyUrl": "https://inovatik.com/viso-recruiting-agency-landing-page-html-template.html",
+        "creator": {
+            "name": "Inovatik",
+            "url": "https://inovatik.com/"
+        },
+        "price": 1600,
+        "categories": [
+            "templates",
+            "landing-page",
+            "multi-purpose"
+        ],
+        "tags": [
+            "bootstrap",
+            "html"
+        ],
+        "images": {
+            "mobile": "1585984636081-viso-template-mobile.png",
+            "desktop": "1585984636101-viso-template-desktop.png"
+        },
+        "analytics": {
+            "views": 474
+        }
+    },
+    {
+        "_id": "5e5b2b99e1e7fdcb69fe8884",
+        "description": "SaaSpik is a unique and modern HTML5 Template having multi-options for Startups, App Landing &amp; SaaS based Companies. It has 4 unique landing pages with multi inner pages for various purpose. SaaSpik can serve numerous awesome features like SaaS landing, Software, Web Application, APP landing &amp; Startups or just a Blog. All HTML files are 100% responsive &amp; W3C HTML validated. Codes are commented in nicely formats and well-documented file structure.",
+        "title": "SaaSpik",
+        "slug_history": [
+            "saaspik"
+        ],
+        "slug": "saaspik",
+        "postDate": "2019-08-09T00:00:00.000Z",
+        "previewUrl": "http://saaspik.pixelsigns.art/",
+        "buyUrl": "https://themeforest.net/item/saaspik-software-app-saas-landing-html-template/24231256",
+        "creator": {
+            "name": "Pixel Signs",
+            "url": "http://pixelsigns.art/"
+        },
+        "price": 1700,
+        "categories": [
+            "templates",
+            "landing-page",
+            "startup",
+            "saas",
+            "mobile-app"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "desktop": "1583033235665-saaspik-template-desktop.png",
+            "mobile": "1583033235665-saaspik-template-mobile.png"
+        },
+        "analytics": {
+            "views": 733
+        }
+    },
+    {
+        "_id": "5e5b46ab06d296ce8f435e95",
+        "description": "Olli is a responsive HTML5 single product landing page template with a creative and mobile-friendly design. This is a great choice to launch any product.",
+        "title": "Olli",
+        "slug_history": [
+            "olli"
+        ],
+        "slug": "olli",
+        "postDate": "2019-02-19T00:00:00.000Z",
+        "previewUrl": "http://demo.harbourthemes.com/demo/olli/index-2.html",
+        "buyUrl": "https://themeforest.net/item/olli-single-product-landing-page/19429486",
+        "creator": {
+            "name": "Harbour Themes",
+            "url": "http://harbourthemes.com/"
+        },
+        "price": 1700,
+        "categories": [
+            "templates",
+            "landing-page",
+            "product"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "desktop": "1583040163883-olli-template-desktop.png",
+            "mobile": "1583040163978-olli-template-mobile.png"
+        },
+        "analytics": {
+            "views": 290
+        }
+    },
+    {
+        "_id": "5ee039bf31a2b576e654eca7",
+        "description": "Plate is a landing page that will suit all the healthy eaters. Creating a food delivery website is easy, thanks to the availability of useful functions. Among them, you are going to find a set of pre-made pages. The package also provides multiple header and footer styles. It is also possible to take advantage of eye-catching bonus images. It takes nothing to ask you a few questions using a contact form. Main Features: 1) cross-browser compatible design; 2) Google Fonts; 3) various gallery types (carousel, slider, and others); 4) testimonials; 5) social media buttons.",
+        "title": "Plate",
+        "slug_history": [
+            "plate"
+        ],
+        "slug": "plate",
+        "postDate": "2020-06-10T01:38:34.549Z",
+        "previewUrl": "https://livedemo00.template-help.com/wt_prod-20823/",
+        "buyUrl": "https://www.templatemonsterpreview.com/demo/76237.html?aff=landingfolio",
+        "creator": {
+            "name": "Template Monster",
+            "url": "https://www.templatemonster.com/"
+        },
+        "price": 1700,
+        "categories": [
+            "templates",
+            "landing-page",
+            "product"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "desktop": "1591753145671-plate-template-desktop.png",
+            "mobile": "1591753145652-plate-template-mobile.png"
+        },
+        "analytics": {
+            "views": 705
+        }
+    }
+][
+    {
+        "_id": "60778b192d6de00011f18350",
+        "description": "Spify Business Website Bootstrap HTML Template",
+        "title": "Spify",
+        "slug_history": [
+            "spify"
+        ],
+        "slug": "spify",
+        "postDate": "2021-04-15T00:38:19.350Z",
+        "previewUrl": "https://inovatik.com/spify/index.html",
+        "buyUrl": "https://inovatik.com/spify-business-website-bootstrap-html-template.html",
+        "creator": {
+            "name": "Inovatik",
+            "url": "https://inovatik.com"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page"
+        ],
+        "tags": [
+            "html",
+            "bootstrap"
+        ],
+        "images": {
+            "mobile": "1618447125486-spify-template-mobile.png",
+            "desktop": "1618447125508-spify-template-desktop.png"
+        },
+        "analytics": {
+            "views": 2087
+        }
+    },
+    {
+        "_id": "5e5b2965e1e7fdcb69fe887e",
+        "description": "Tailwind CSS landing page template containing: Fixed Header, Hero section - two columns for large screens and two rows for small screens, Promo and card content sections, Pricing Table and Call to Action section",
+        "title": "Landing",
+        "slug_history": [
+            "landing"
+        ],
+        "slug": "landing",
+        "postDate": "2019-12-26T00:00:00.000Z",
+        "previewUrl": "https://www.tailwindtoolbox.com/templates/landing-page-demo.php",
+        "buyUrl": "https://www.tailwindtoolbox.com/templates/landing-page",
+        "creator": {
+            "name": "Tailwind Toolbox",
+            "url": "https://www.tailwindtoolbox.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "startup",
+            "product"
+        ],
+        "tags": [
+            "tailwind"
+        ],
+        "images": {
+            "desktop": "1583032672319-landing-template-desktop.png",
+            "mobile": "1583032672322-landing-template-mobile.png"
+        },
+        "analytics": {
+            "views": 2078
+        }
+    },
+    {
+        "_id": "5e5b2ad6e1e7fdcb69fe8882",
+        "description": "Aria is a business focused free HTML landing page template built with Bootstrap to help you create lead generation websites for companies and their services. The design is clean and modern with a more restrained but efficient color scheme that will highlight your content without drawing attention from it.",
+        "title": "Aria",
+        "slug_history": [
+            "aria"
+        ],
+        "slug": "aria",
+        "postDate": "2019-10-04T00:00:00.000Z",
+        "previewUrl": "https://inovatik.com/aria-landing-page/index.html",
+        "buyUrl": "https://inovatik.com/aria-free-business-landing-page-template.html",
+        "creator": {
+            "name": "Inovatik",
+            "url": "https://inovatik.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "email-capture",
+            "portfolio"
+        ],
+        "tags": [
+            "html",
+            "bootstrap"
+        ],
+        "images": {
+            "mobile": "1583033040983-aria-template-mobile.png",
+            "desktop": "1583033041009-aria-template-desktop.png"
+        },
+        "analytics": {
+            "views": 2453
+        }
+    },
+    {
+        "_id": "5eacdab9065f753bd0a2e2d4",
+        "description": "Free landing page template built with HTML and Bootstrap for presenting training courses, classes, workshops and for convincing visitors to register using the form. It features countdown timer until the event date, image slider for previous editions, logo slider, details lightbox for additional information, video lightbox, text slider for testimonials, dropdown navigation, extra pages: article details, terms conditions, privacy policy, working registration, newsletter and contact forms.",
+        "title": "Corso",
+        "slug_history": [
+            "corso"
+        ],
+        "slug": "corso",
+        "postDate": "2020-05-02T02:27:09.979Z",
+        "previewUrl": "https://inovatik.com/corso-landing-page/index.html",
+        "buyUrl": "https://inovatik.com/corso-free-training-course-landing-page-html-template.html",
+        "creator": {
+            "name": "Inovatik",
+            "url": "https://inovatik.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "product",
+            "landing-page",
+            "email-capture"
+        ],
+        "tags": [
+            "bootstrap",
+            "html"
+        ],
+        "images": {
+            "mobile": "1588386468521-corso-template-mobile.png",
+            "desktop": "1588386468542-corso-template-desktop.png"
+        },
+        "analytics": {
+            "views": 1160
+        }
+    },
+    {
+        "_id": "5e5b2d92e1e7fdcb69fe8889",
+        "description": "This page has a focus on illustrations. This may limit your ability to display screenshots, but if those aren’t required to explain your app and these illustrations fit your product, then these illustrations can work wonders. Making something visual is always good, and combined with the right headline these illustrations could visualise a lot of things. If the artwork matches your app, this one could be for you",
+        "title": "Fusion",
+        "slug_history": [
+            "fusion"
+        ],
+        "slug": "fusion",
+        "postDate": "2019-06-05T00:00:00.000Z",
+        "previewUrl": "https://preview.uideck.com/items/fusion/",
+        "buyUrl": "https://uideck.com/templates/fusion-app-business-saas-product-landing-page-template/",
+        "creator": {
+            "name": "UI Deck",
+            "url": "https://uideck.com"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "startup",
+            "saas",
+            "product",
+            "mobile-app"
+        ],
+        "tags": [
+            "bootstrap",
+            "html"
+        ],
+        "images": {
+            "desktop": "1583033742439-fusion-template-desktop.png",
+            "mobile": "1583033742443-fusion-template-mobile.png"
+        },
+        "analytics": {
+            "views": 1424
+        }
+    },
+    {
+        "_id": "5f39f55537aa55172b10ae90",
+        "description": "Swipe is a free mobile application One Page Bootstrap 5 Template featuring sections such as about, testimonials, frequently asked questions, and two app download CTA sections.",
+        "title": "Swipe",
+        "slug_history": [
+            "swipe"
+        ],
+        "slug": "swipe",
+        "postDate": "2020-08-17T03:11:05.086Z",
+        "previewUrl": "https://demo.themesberg.com/swipe/",
+        "buyUrl": "https://themesberg.com/product/bootstrap/swipe-free-mobile-app-one-page-bootstrap-5-template",
+        "creator": {
+            "name": "Themesberg",
+            "url": "https://themesberg.com"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "startup",
+            "saas",
+            "product"
+        ],
+        "tags": [
+            "html",
+            "bootstrap"
+        ],
+        "images": {
+            "mobile": "1597633866055-swipe-template-mobile.png",
+            "desktop": "1597633866073-swipe-template-desktop.png"
+        },
+        "analytics": {
+            "views": 1529
+        }
+    },
+    {
+        "_id": "5e5b28e5e1e7fdcb69fe887d",
+        "description": "Running a startup and embarking yourself on a new bussiness a idea can be daring, the landing page must sell your product on first sight. This landing page made with Tailwind CSS, will make your idea look awesome with nice looking illustrations from Freepik.",
+        "title": "Social App",
+        "slug_history": [
+            "social-app"
+        ],
+        "slug": "social-app",
+        "postDate": "2019-12-26T00:00:00.000Z",
+        "previewUrl": "https://tailwindcomponents.com/template/social-app-landing-page",
+        "buyUrl": "https://tailwindcomponents.com/template/social-app-landing-page",
+        "creator": {
+            "name": "Tailwind Components",
+            "url": "https://tailwindcomponents.com"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "portfolio"
+        ],
+        "tags": [
+            "tailwind"
+        ],
+        "images": {
+            "desktop": "components/1583032516330_landing___medialibrary_original_578_16701png",
+            "mobile": "components/1583032516238_landing___medialibrary_original_578_1670png"
+        },
+        "analytics": {
+            "views": 2223
+        }
+    },
+    {
+        "_id": "5e5b2ddbe1e7fdcb69fe888a",
+        "description": "Purple is a colour that gives off feelings of importance and value. If your app is meant to give off a sense of luxury, this colour palette could strengthen that. It also has scroll effects, with all elements fading in while scrolling. While they do halt your progress, they also make sure you at least look at every element on the page.",
+        "title": "Kairos",
+        "slug_history": [
+            "kairos"
+        ],
+        "slug": "kairos",
+        "postDate": "2019-06-05T00:00:00.000Z",
+        "previewUrl": "https://templatemag.com/demo/templates/CleanLanding/index.html",
+        "buyUrl": "https://templatemag.com/cleanlanding-bootstrap-landing-template/",
+        "creator": {
+            "name": "TemplateMag",
+            "url": "https://templatemag.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "mobile-app"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "mobile": "1583033815820-kairos-template-mobile.png",
+            "desktop": "1583033815821-kairos-template-desktop.png"
+        },
+        "analytics": {
+            "views": 454
+        }
+    },
+    {
+        "_id": "5e5b2b12e1e7fdcb69fe8883",
+        "description": "Create a stylish landing page for your business startup and get leads for the offered services with this free Bootstrap 4 based HTML landing page template. Built with Bootstrap 4, HTML/CSS and JS it features image slider for partner logos, text slider for testimonials, details lightbox for additional information, video lightbox, extra pages like terms conditions and privacy policy",
+        "title": "Evolo",
+        "slug_history": [
+            "evolo"
+        ],
+        "slug": "evolo",
+        "postDate": "2019-08-12T00:00:00.000Z",
+        "previewUrl": "https://inovatik.com/evolo-landing-page/index.html",
+        "buyUrl": "https://inovatik.com/evolo-free-startup-landing-page-template.html",
+        "creator": {
+            "name": "Inovatik",
+            "url": "https://inovatik.com"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "startup",
+            "saas",
+            "product"
+        ],
+        "tags": [
+            "bootstrap",
+            "html"
+        ],
+        "images": {
+            "desktop": "1583033102799-evolo-template-desktop.png",
+            "mobile": "1583033102800-evolo-template-mobile.png"
+        },
+        "analytics": {
+            "views": 1755
+        }
+    },
+    {
+        "_id": "5e5b29d5e1e7fdcb69fe887f",
+        "description": "Tailwind CSS starter template containing: Fixed Header, Hero section - with a CSS browser window for your app/website screenshot, Promo and card content sections, Pricing Table and Call to Action section",
+        "title": "Bolt App",
+        "slug_history": [
+            "bolt-app"
+        ],
+        "slug": "bolt-app",
+        "postDate": "2019-12-26T00:00:00.000Z",
+        "previewUrl": "https://www.tailwindtoolbox.com/templates/screenshot-landing-page-demo.php",
+        "buyUrl": "https://www.tailwindtoolbox.com/templates/screenshot-landing-page",
+        "creator": {
+            "name": "Tailwind Toolbox",
+            "url": "https://www.tailwindtoolbox.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "startup",
+            "multi-purpose",
+            "saas",
+            "product"
+        ],
+        "tags": [
+            "tailwind"
+        ],
+        "images": {
+            "desktop": "1583032786883-bolt-app-template-desktop.png",
+            "mobile": "1583032786883-bolt-app-template-mobile.png"
+        },
+        "analytics": {
+            "views": 1346
+        }
+    },
+    {
+        "_id": "5e5b1ce9b8938ec8f68cb17c",
+        "description": "Sync is a landing page HTML template built with Bootstrap 4 for presenting mobile apps to the online audience and for getting visitors to become users.",
+        "title": "Sync",
+        "slug_history": [
+            "sync"
+        ],
+        "slug": "sync",
+        "postDate": "2020-01-05T00:00:00.000Z",
+        "previewUrl": "https://inovatik.com/sync-landing-page/index.html",
+        "buyUrl": "https://inovatik.com/sync-free-mobile-app-landing-page-html-template.html",
+        "creator": {
+            "name": "Inovatik",
+            "url": "https://inovatik.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "mobile-app"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "desktop": "1583029476417-sync-template-desktop.png",
+            "mobile": "1583029476414-sync-template-mobile.png"
+        },
+        "analytics": {
+            "views": 959
+        }
+    },
+    {
+        "_id": "5e5b2e9d06d296ce8f435e7d",
+        "description": "Dazzle feels like it’s appealing to the creative types. The image as a background above the fold, the solid use of the fresh colour of green, the numbered circles describing the process and the way the screenshots are laid out almost give it a portfolio-like quality to me. This can work in your favour by making the experience feel a lot more personal. It feels like you’re dealing with a person, not a company or a product.",
+        "title": "Dazzle",
+        "slug_history": [
+            "dazzle"
+        ],
+        "slug": "dazzle",
+        "postDate": "2019-06-05T00:00:00.000Z",
+        "previewUrl": "https://demos.onepagelove.com/html/dazzle/",
+        "buyUrl": "https://onepagelove.com/dazzle",
+        "creator": {
+            "name": "One Page Love",
+            "url": "https://onepagelove.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "mobile-app"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "mobile": "1583034008872-dazzle-template-mobile.png",
+            "desktop": "1583034008875-dazzle-template-desktop.png"
+        },
+        "analytics": {
+            "views": 632
+        }
+    },
+    {
+        "_id": "5ec0ce35f75dbc6fec979b68",
+        "description": "Start developing neumorphism (aka. neomorphism) inspired layouts, web apps and pages with this free UI Kit. It features over 200 individual components and 5 example pages. Neumorphism UI makes use of the original neumorphism design specs.",
+        "title": "Neumorphism UI",
+        "slug_history": [
+            "neumorphism-ui"
+        ],
+        "slug": "neumorphism-ui",
+        "postDate": "2020-05-17T05:39:36.130Z",
+        "previewUrl": "https://demo.themesberg.com/neumorphism-ui/",
+        "buyUrl": "https://themesberg.com/product/ui-kits/neumorphism-ui-kit-bootstrap",
+        "creator": {
+            "name": "Themesberg",
+            "url": "https://www.themesberg.com"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "multi-purpose"
+        ],
+        "tags": [
+            "html",
+            "bootstrap"
+        ],
+        "images": {
+            "desktop": "1589693997704-neumorphism-ui-template-desktop.png",
+            "mobile": "1589693997724-neumorphism-ui-template-mobile.png"
+        },
+        "analytics": {
+            "views": 835
+        }
+    },
+    {
+        "_id": "5e5b2e4b06d296ce8f435e7c",
+        "description": "Above the fold it’s direct and to-the-point. There’s a phone with a screenshot, a CTA and a headline. This, combined with the bold font, really allows the headline to steal the show. If you have a strong value proposition, it won’t be lost here. Otherwise, this template gains its visual appeal from the smaller things like the polka dots and circles around the second screenshot and the limited, subtle use of colour which simultaneously allows the colour to pop more.",
+        "title": "The SEO Company",
+        "slug_history": [
+            "the-seo-company"
+        ],
+        "slug": "the-seo-company",
+        "postDate": "2019-06-05T00:00:00.000Z",
+        "previewUrl": "https://technext.github.io/the-seo-company/",
+        "buyUrl": "https://themewagon.com/themes/seo-company-free-bootstrap-4-html5-professional-business-website-template/",
+        "creator": {
+            "name": "Theme Wagon",
+            "url": "https://themewagon.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "mobile-app"
+        ],
+        "tags": [
+            "html",
+            "bootstrap"
+        ],
+        "images": {
+            "desktop": "1583033927803-the-seo-company-template-desktop.png",
+            "mobile": "1583033927804-the-seo-company-template-mobile.png"
+        },
+        "analytics": {
+            "views": 425
+        }
+    },
+    {
+        "_id": "5e5b2caee1e7fdcb69fe8887",
+        "description": "Leno is a free mobile app HTML landing page template which helps designers and developers present their mobile apps to the online audience and grow their user base. It features a stylish dark design with modern touches to provide a memorable experience to the online visitor. It offers all the sections required to present a mobile application and a fully functioning contact form.",
+        "title": "Leno",
+        "slug_history": [
+            "leno"
+        ],
+        "slug": "leno",
+        "postDate": "2019-06-11T00:00:00.000Z",
+        "previewUrl": "https://inovatik.com/leno-landing-page/index.html",
+        "buyUrl": "https://inovatik.com/leno-free-mobile-app-landing-page-template.html",
+        "creator": {
+            "name": "Inovatik",
+            "url": "https://inovatik.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "mobile-app"
+        ],
+        "tags": [
+            "bootstrap",
+            "html"
+        ],
+        "images": {
+            "mobile": "1583033512036-leno-template-mobile.png",
+            "desktop": "1583033512043-leno-template-desktop.png"
+        },
+        "analytics": {
+            "views": 1496
+        }
+    },
+    {
+        "_id": "5e5b2d2ce1e7fdcb69fe8888",
+        "description": "Laurel is clearly going for the modern, cool and stylish vibe. It’s warm colours, dark colour pallette and serif font build this feeling quite well. This page is not meant just to show off features. This one is much better for apps that primarily score on style. This one’s for apps that people get because they’re cool and stylish, not per se because it’ll functionally help them.",
+        "title": "Laurel",
+        "slug_history": [
+            "laurel"
+        ],
+        "slug": "laurel",
+        "postDate": "2019-06-05T00:00:00.000Z",
+        "previewUrl": "https://preview.cruip.com/laurel/",
+        "buyUrl": "https://cruip.com/free-templates/",
+        "creator": {
+            "name": "Cruip",
+            "url": "https://cruip.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "mobile-app"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "mobile": "1583033640227-laurel-template-mobile.png",
+            "desktop": "1583033640231-laurel-template-desktop.png"
+        },
+        "analytics": {
+            "views": 863
+        }
+    },
+    {
+        "_id": "5f0d5405fbc70e33ddd4f91b",
+        "description": "Avid is a free SaaS app landing page template built with Bootstrap and HTML to help you create beautiful and efficient online presentations for your web apps and convince visitors to sign up.",
+        "title": "Avid",
+        "slug_history": [
+            "avid"
+        ],
+        "slug": "avid",
+        "postDate": "2020-07-14T06:42:51.898Z",
+        "previewUrl": "https://inovatik.com/avid-landing-page/index.html",
+        "buyUrl": "https://inovatik.com/avid-saas-app-landing-page-template.html",
+        "creator": {
+            "name": "Inovatik",
+            "url": "https://inovatik.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "startup",
+            "landing-page",
+            "saas"
+        ],
+        "tags": [
+            "bootstrap",
+            "html"
+        ],
+        "images": {
+            "mobile": "components/1594708889926_avidlandingpagetemplatemobilepng",
+            "desktop": "components/1594708890305_avidlandingpagetemplatedesktoppng"
+        },
+        "analytics": {
+            "views": 1029
+        }
+    },
+    {
+        "_id": "5e5b2a88e1e7fdcb69fe8881",
+        "description": "Tivo is a free HTML landing page template built with Bootstrap to help you crate engaging presentation websites for SaaS apps and convert visitors into users. Tivo features a clean, light design style which together with the tech blue color scheme will create a memorable experience for your online visitors and persuade them to start using your SaaS app.",
+        "title": "Tivo",
+        "slug_history": [
+            "tivo"
+        ],
+        "slug": "tivo",
+        "postDate": "2019-10-04T00:00:00.000Z",
+        "previewUrl": "https://inovatik.com/tivo-landing-page/index.html",
+        "buyUrl": "https://inovatik.com/tivo-free-saas-app-landing-page-template.html",
+        "creator": {
+            "name": "Inovatik",
+            "url": "https://inovatik.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "saas"
+        ],
+        "tags": [
+            "html",
+            "bootstrap"
+        ],
+        "images": {
+            "desktop": "1583032965084-tivo-template-desktop.png",
+            "mobile": "1583032965084-tivo-template-mobile.png"
+        },
+        "analytics": {
+            "views": 1319
+        }
+    },
+    {
+        "_id": "5e5b2833e1e7fdcb69fe887b",
+        "description": "Tailwind Starter Kit is Free and Open Source. It does not change or add any CSS to the already one from TailwindCSS. It features multiple HTML elements and it comes with dynamic components for ReactJS, Vue and Angular.",
+        "title": "Tailwind Starter Kit",
+        "slug_history": [
+            "tailwind-starter-kit"
+        ],
+        "slug": "tailwind-starter-kit",
+        "postDate": "2019-12-26T00:00:00.000Z",
+        "previewUrl": "https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation",
+        "buyUrl": "https://github.com/creativetimofficial/tailwind-starter-kit?ref=creativetim-tailwind-download",
+        "creator": {
+            "name": "Creative Tim",
+            "url": "https://www.creative-tim.com/"
+        },
+        "price": 0,
+        "categories": [
+            "templates",
+            "landing-page",
+            "startup",
+            "saas",
+            "product"
+        ],
+        "tags": [
+            "tailwind"
+        ],
+        "images": {
+            "mobile": "components/1583032291902_screencapturecreativetimlearninglabtailwindstarterkit2020030111_11_08png",
+            "desktop": "components/1583032292483_screencapturecreativetimlearninglabtailwindstarterkit2020030111_10_25png"
+        },
+        "analytics": {
+            "views": 1495
+        }
+    },
+    {
+        "_id": "5e5b1c24b8938ec8f68cb17b",
+        "description": "Ten templates, four colors, three devices, unlimited possibilities. Give your app the podium it deserves with AppLanding, a simple app landing page template easily customizable to your style. Made with Bootstrap 4 HTML.",
+        "title": "AppLanding",
+        "slug_history": [
+            "applanding"
+        ],
+        "slug": "applanding",
+        "postDate": "2020-01-05T00:00:00.000Z",
+        "previewUrl": "https://www.landingfolio.com/store/applanding/",
+        "buyUrl": "https://www.landingfolio.com/store/applanding/",
+        "creator": {
+            "name": "Landingfolio",
+            "url": "https://www.landingfolio.com"
+        },
+        "price": 900,
+        "categories": [
+            "templates",
+            "landing-page",
+            "mobile-app"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "mobile": "1583029278607-applanding-template-mobile.png",
+            "desktop": "1583029278652-applanding-template-desktop.png"
+        },
+        "analytics": {
+            "views": 445
+        }
+    },
+    {
+        "_id": "5e5b1bdcb8938ec8f68cb17a",
+        "description": "Lintense is an all-in-one landing page template that claims to provide web-masters with a large number of essential options. The package contains 12 beautifully-designed templates for different purposes. It also includes an easy-to-use Novi Builder that allows editing your content without any coding knowledge.",
+        "title": "Lintense",
+        "slug_history": [
+            "lintense"
+        ],
+        "slug": "lintense",
+        "postDate": "2020-01-20T00:00:00.000Z",
+        "previewUrl": "https://livedemo00.template-help.com/wt_prod-25028/lintense-2.0/lintense/",
+        "buyUrl": "https://www.templatemonster.com/landing-page-template/all-in-one-landing-page-lintense/",
+        "creator": {
+            "name": "Template Monster",
+            "url": "https://www.templatemonster.com/"
+        },
+        "price": 1000,
+        "categories": [
+            "templates",
+            "multi-purpose",
+            "mobile-app",
+            "book",
+            "landing-page"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "mobile": "1583029207661-lintense-template-mobile.png",
+            "desktop": "1583029207666-lintense-template-desktop.png"
+        },
+        "analytics": {
+            "views": 608
+        }
+    },
+    {
+        "_id": "5e5b47ac06d296ce8f435e98",
+        "description": "Howdy is a clean and modern high-converting landing page template, very easy to customize according to your needs. This landing page template can be used to promote web apps, mobile apps and all kind of marketing and startup websites. Quick and easy to setup.",
+        "title": "Howdy",
+        "slug_history": [
+            "howdy"
+        ],
+        "slug": "howdy",
+        "postDate": "2019-02-19T00:00:00.000Z",
+        "previewUrl": "http://demo.epic-webdesign.com/tf-howdy/v1/",
+        "buyUrl": "https://themeforest.net/item/howdy-multipurpose-highconverting-landing-page-template/22610725?s_rank=25",
+        "creator": {
+            "name": "Epic Webdesign",
+            "url": "https://themeforest.net"
+        },
+        "price": 1100,
+        "categories": [
+            "templates",
+            "landing-page",
+            "multi-purpose",
+            "email-capture"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "desktop": "1583040423674-howdy-template-desktop.png",
+            "mobile": "1583040423692-howdy-template-mobile.png"
+        },
+        "analytics": {
+            "views": 445
+        }
+    },
+    {
+        "_id": "5e5b48f306d296ce8f435e9b",
+        "description": "Appilo App Landing page Template is a Creative & Unique Design Clean and Responsive HTML5/CSS3 App landing page based on Bootstrap All files are clearly organised we believe it will be easy to use and edit them. This template is well organized and very easy to customize.",
+        "title": "Appilo",
+        "slug_history": [
+            "appilo"
+        ],
+        "slug": "appilo",
+        "postDate": "2019-02-19T00:00:00.000Z",
+        "previewUrl": "http://themexriver.com/tfhtml/appilo/",
+        "buyUrl": "https://themeforest.net/item/appilo-app-landing-page/22227898",
+        "creator": {
+            "name": "Themexriver",
+            "url": "https://themexriver.com/"
+        },
+        "price": 1200,
+        "categories": [
+            "templates",
+            "landing-page",
+            "mobile-app"
+        ],
+        "tags": [
+            "bootstrap",
+            "html"
+        ],
+        "images": {
+            "mobile": "1583040747673-appilo-template-mobile.png",
+            "desktop": "1583040747687-appilo-template-desktop.png"
+        },
+        "analytics": {
+            "views": 602
+        }
+    },
+    {
+        "_id": "5e8f03a221b8112cc2c221fc",
+        "description": "Omega is a HTML5 landing page template for Saas Products, Software, Startups, Apps and many other related services. It is 100% responsive in all devices and built on top of Bootstrap 4 framework.",
+        "title": "Omega",
+        "slug_history": [
+            "omega"
+        ],
+        "slug": "omega",
+        "postDate": "2020-04-09T11:14:35.372Z",
+        "previewUrl": "https://demos.grayic.com/omega/landing-5.html",
+        "buyUrl": "https://themeforest.net/item/omega-landing-page-template-for-saas-startup-agency/26160025",
+        "creator": {
+            "name": "Grayic",
+            "url": "https://grayic.com/"
+        },
+        "price": 1200,
+        "categories": [
+            "templates",
+            "landing-page",
+            "startup",
+            "mobile-app",
+            "saas"
+        ],
+        "tags": [
+            "bootstrap",
+            "html"
+        ],
+        "images": {
+            "mobile": "1586430876776-omega-template-mobile.png",
+            "desktop": "1586430876796-omega-template-desktop.png"
+        },
+        "analytics": {
+            "views": 910
+        }
+    },
+    {
+        "_id": "5e5b463406d296ce8f435e94",
+        "description": "Rupa is a single product landing page html5 template. You can use it for online product marketing purposes. Anyone can use it both digital or physical product marketing purposes. It is 100% responsive landing page. You can easily customize it without any trouble.",
+        "title": "Rupa",
+        "slug_history": [
+            "rupa"
+        ],
+        "slug": "rupa",
+        "postDate": "2019-02-19T00:00:00.000Z",
+        "previewUrl": "http://rexbd.net/html/rupa/demo/index.html",
+        "buyUrl": "https://themeforest.net/item/rupa-product-landing-page/21522020",
+        "creator": {
+            "name": "RexBD",
+            "url": "http://rexbd.net/"
+        },
+        "price": 1300,
+        "categories": [
+            "templates",
+            "landing-page",
+            "product"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "mobile": "1583040048125-rupa-template-mobile.png",
+            "desktop": "1583040048130-rupa-template-desktop.png"
+        },
+        "analytics": {
+            "views": 370
+        }
+    },
+    {
+        "_id": "5e5b484b06d296ce8f435e99",
+        "description": "Siroon is unique and modern landing page design for showing off your mobile app. Built on Bootstrap v4 and being fully responsive, this template is sure to serve your needs regardless of what your app is.",
+        "title": "Siroon",
+        "slug_history": [
+            "siroon"
+        ],
+        "slug": "siroon",
+        "postDate": "2019-02-19T00:00:00.000Z",
+        "previewUrl": "http://aramvardanyan.me/siroon/",
+        "buyUrl": "https://themeforest.net/item/app-landing-page-siroon/22650726",
+        "creator": {
+            "name": "Aram Vardanyan",
+            "url": "http://aramvardanyan.me"
+        },
+        "price": 1300,
+        "categories": [
+            "templates",
+            "landing-page",
+            "mobile-app"
+        ],
+        "tags": [
+            "bootstrap",
+            "html"
+        ],
+        "images": {
+            "mobile": "1583040582356-siroon-template-mobile.png",
+            "desktop": "1583040582360-siroon-template-desktop.png"
+        },
+        "analytics": {
+            "views": 586
+        }
+    },
+    {
+        "_id": "5e5b4b6c06d296ce8f435e9e",
+        "description": "Ramio is clean and solid coming soon and landing page HTML template. Create excitement around your brand with Ramio! Ramio comes with 4 color skins and 16 ready-to-use demo variations – ñhoose the best for your start. Beautifully animated content sections with smooth transition effect will help you to represent your brand at its best.",
+        "title": "Ramio",
+        "slug_history": [
+            "ramio"
+        ],
+        "slug": "ramio",
+        "postDate": "2019-02-19T00:00:00.000Z",
+        "previewUrl": "http://mixdesign.club/themeforest/ramio/index-monochrome-image.html",
+        "buyUrl": "https://themeforest.net/item/ramio-clean-coming-soon-and-landing-page-template/21711113?s_rank=11",
+        "creator": {
+            "name": "Mixdesign",
+            "url": "http://mixdesign.club"
+        },
+        "price": 1400,
+        "categories": [
+            "templates",
+            "coming-soon"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "desktop": "1583041380249-ramio-template-desktop.png",
+            "mobile": "1583041380257-ramio-template-mobile.png"
+        },
+        "analytics": {
+            "views": 215
+        }
+    },
+    {
+        "_id": "5e5b342b06d296ce8f435e89",
+        "description": "Portum is a HTML5 template based on Boostrap4.x for variety of single product landing pages. It’s come with modern layout & clean design. Portum has 3 unique landing page with 6 different option for each landing page, and it included 10 different color preset, so matched with you brand. Also you can set your own color & it’s very easy to use.",
+        "title": "Portum",
+        "slug_history": [
+            "portum"
+        ],
+        "slug": "portum",
+        "postDate": "2019-02-19T00:00:00.000Z",
+        "previewUrl": "http://demo.themesurf.com/portum/",
+        "buyUrl": "https://themeforest.net/item/portum-single-product-landing-intro-page-html-template/21716186?s_rank=21",
+        "creator": {
+            "name": "ThemeSurf",
+            "url": "http://demo.themesurf.com/"
+        },
+        "price": 1400,
+        "categories": [
+            "templates",
+            "landing-page",
+            "product"
+        ],
+        "tags": [
+            "bootstrap",
+            "html"
+        ],
+        "images": {
+            "mobile": "1583035430574-portum-template-mobile.png",
+            "desktop": "1583035430579-portum-template-desktop.png"
+        },
+        "analytics": {
+            "views": 391
+        }
+    },
+    {
+        "_id": "5e5b49bb06d296ce8f435e9d",
+        "description": "MobiCom is a pixel perfect Mobile App Landing Pages Big Pack crafted with terrific attention to details. It was designed to promote your mobile App, services or business projects",
+        "title": "MobiCom",
+        "slug_history": [
+            "mobicom"
+        ],
+        "slug": "mobicom",
+        "postDate": "2019-02-19T00:00:00.000Z",
+        "previewUrl": "https://html.dynamiclayers.net/at/enovo/index.html",
+        "buyUrl": "https://themeforest.net/item/mobicom-mobile-app-landing-pages-pack/21974201?s_rank=29",
+        "creator": {
+            "name": "Dsathemes",
+            "url": "https://dsathemes.com/"
+        },
+        "price": 1500,
+        "categories": [
+            "templates",
+            "landing-page",
+            "mobile-app"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "mobile": "1583040951596-mobicom-template-mobile.png",
+            "desktop": "1583040951600-mobicom-template-desktop.png"
+        },
+        "analytics": {
+            "views": 338
+        }
+    },
+    {
+        "_id": "5e72ffa163b2fb53d3d84f71",
+        "description": "A great collection of flexible, ultra-modern & creative landing page templates to promote your mobile App, services or business projects",
+        "title": "AppSet",
+        "slug_history": [
+            "appset"
+        ],
+        "slug": "appset",
+        "postDate": "2020-03-19T05:13:11.555Z",
+        "previewUrl": "https://dsathemes.com/html/appset/files/demo-3.html",
+        "buyUrl": "https://themeforest.net/item/appset-app-landing-pages-pack/22735113?s_rank=8",
+        "creator": {
+            "name": "Dsa Themes",
+            "url": "https://dsathemes.com/"
+        },
+        "price": 1500,
+        "categories": [
+            "templates",
+            "landing-page",
+            "mobile-app"
+        ],
+        "tags": [
+            "wordpress",
+            "html",
+            "bootstrap"
+        ],
+        "images": {
+            "mobile": "1584594840861-appset-template-mobile.png",
+            "desktop": "1584594840880-appset-template-desktop.png"
+        },
+        "analytics": {
+            "views": 513
+        }
+    },
+    {
+        "_id": "5e5b475c06d296ce8f435e97",
+        "description": "Ready Made is a Multipurpose Landing Page Template Bundle designed to use for any kind of local business or startups. Clean and Modern design. Best Conversion optimized Landing page Template. 10+ Responsive HTML layouts including Email contact form, lead generation, click-through, Ajax Mailchimp Subscription, Click to call, Video, Web App, Mobile App, Blog page etc… Easily customizable landing pages.",
+        "title": "ReadyMade",
+        "slug_history": [
+            "readymade"
+        ],
+        "slug": "readymade",
+        "postDate": "2019-02-19T00:00:00.000Z",
+        "previewUrl": "https://demo.web3canvas.com/themeforest/readymade/default.html",
+        "buyUrl": "https://themeforest.net/item/multipurpose-landing-page-template-readymade/10477881?s_rank=19",
+        "creator": {
+            "name": "W3C",
+            "url": "https://web3canvas.com/"
+        },
+        "price": 1500,
+        "categories": [
+            "templates",
+            "landing-page",
+            "multi-purpose",
+            "email-capture",
+            "saas",
+            "startup"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "desktop": "1583040345770-readymade-template-desktop.png",
+            "mobile": "1583040345775-readymade-template-mobile.png"
+        },
+        "analytics": {
+            "views": 582
+        }
+    },
+    {
+        "_id": "5e73000763b2fb53d3d84f72",
+        "description": "A great collection of flexible, ultra modern & creative landing page templates to promote your mobile App, services or business projects",
+        "title": "AppSet",
+        "slug_history": [
+            "appset-1"
+        ],
+        "slug": "appset-1",
+        "postDate": "2020-03-19T05:14:59.983Z",
+        "previewUrl": "https://dsathemes.com/html/appset/files/demo-4.html",
+        "buyUrl": "https://themeforest.net/item/appset-app-landing-pages-pack/22735113?s_rank=8",
+        "creator": {
+            "name": "Dsa Themes",
+            "url": "https://dsathemes.com/"
+        },
+        "price": 1500,
+        "categories": [
+            "templates",
+            "landing-page",
+            "mobile-app"
+        ],
+        "tags": [
+            "wordpress",
+            "bootstrap",
+            "html"
+        ],
+        "images": {
+            "mobile": "1584594943738-appset-template-mobile.png",
+            "desktop": "1584594943749-appset-template-desktop.png"
+        },
+        "analytics": {
+            "views": 709
+        }
+    },
+    {
+        "_id": "5e5b46ec06d296ce8f435e96",
+        "description": "Adele is a responsive HTML Landing page for promoting supplementary products. The template is perfect for both lead generation and conversion purposes with easy customization and user-friendly layout.",
+        "title": "Adele",
+        "slug_history": [
+            "adele"
+        ],
+        "slug": "adele",
+        "postDate": "2019-02-19T00:00:00.000Z",
+        "previewUrl": "http://divsketch.com/adele/",
+        "buyUrl": "https://themeforest.net/item/adele-responsive-supplement-landing-page/14769605?s_rank=27",
+        "creator": {
+            "name": "Div Sketch",
+            "url": "http://divsketch.com"
+        },
+        "price": 1500,
+        "categories": [
+            "templates",
+            "landing-page",
+            "product"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "desktop": "1583040232339-adele-template-desktop.png",
+            "mobile": "1583040232343-adele-template-mobile.png"
+        },
+        "analytics": {
+            "views": 310
+        }
+    },
+    {
+        "_id": "5e5b493806d296ce8f435e9c",
+        "description": "Kinetic is an elegant, luxury and trendy App Landing HTML5 template. It is a very simple, clean and minimalist template. It perfectly suited for the website of App, software. The template looks great and it will appeal to fans of minimalist style. Template content is based on Bootstrap System.",
+        "title": "Kinetic",
+        "slug_history": [
+            "kinetic"
+        ],
+        "slug": "kinetic",
+        "postDate": "2019-02-19T00:00:00.000Z",
+        "previewUrl": "http://nunforest.com/kinetic/",
+        "buyUrl": "https://themeforest.net/item/kinetic-app-landing-page/22767043?s_rank=5",
+        "creator": {
+            "name": "Nunforest",
+            "url": "http://nunforest.com/"
+        },
+        "price": 1500,
+        "categories": [
+            "templates",
+            "landing-page",
+            "mobile-app"
+        ],
+        "tags": [
+            "html",
+            "bootstrap"
+        ],
+        "images": {
+            "mobile": "1583040821185-kinetic-template-mobile.png",
+            "desktop": "1583040821189-kinetic-template-desktop.png"
+        },
+        "analytics": {
+            "views": 332
+        }
+    },
+    {
+        "_id": "5e9ff247dd65811d0b6b56eb",
+        "description": "If you want to succeed in the world of educational courses, you need to establish an excellent online presence. Together with this multi-functional landing page template, you can achieve this goal. It offers a fully-editable nature. You are free to make all the edits you consider to be important. To make your website more engaging, it is possible to add a few animation effects. People get a chance to choose the desired course, thanks to a user-friendly booking form. In addition to this, you will get a cross-browser compatible design. Your visitors can view your pieces of content using all the modern browsers.",
+        "title": "Lintense",
+        "slug_history": [
+            "lintense-1"
+        ],
+        "slug": "lintense-1",
+        "postDate": "2020-04-22T07:28:39.050Z",
+        "previewUrl": "https://www.templatemonster.com/demo/87738.html?aff=landingfolio&utm_campaign=course_landingfolio&utm_source=landingfolio&utm_medium=referral",
+        "buyUrl": "https://www.templatemonster.com/landing-page-template/lintense-course-education-clean-html-landing-page-template-87738.html?aff=landingfolio&utm_campaign=course_landingfolio&utm_source=landingfolio&utm_medium=referral",
+        "creator": {
+            "name": "Template Monster",
+            "url": "https://www.templatemonster.com/"
+        },
+        "price": 1600,
+        "categories": [
+            "templates",
+            "product",
+            "landing-page"
+        ],
+        "tags": [
+            "html",
+            "bootstrap"
+        ],
+        "images": {
+            "mobile": "1587540542116-lintense-template-mobile.png",
+            "desktop": "1587540542134-lintense-template-desktop.png"
+        },
+        "analytics": {
+            "views": 645
+        }
+    },
+    {
+        "_id": "5e9922d1dd65811d0b6b56d7",
+        "description": "Omega is a HTML5 landing page template for various types of Saas Products, Software, Startups, Apps and many other related services. It is 100% responsive in all devices and looks beautiful on every single device! Your users will love your site because it gives them a unique user experience (UX), clean, modern & beautiful design. They are also easy to customize and to combine with other components.",
+        "title": "Omega eBook",
+        "slug_history": [
+            "omega-ebook"
+        ],
+        "slug": "omega-ebook",
+        "postDate": "2020-04-17T03:30:04.304Z",
+        "previewUrl": "https://demos.grayic.com/omega/landing-6.html",
+        "buyUrl": "https://grayic.com/omega-ebook",
+        "creator": {
+            "name": "Grayic",
+            "url": "https://grayic.com/"
+        },
+        "price": 1600,
+        "categories": [
+            "templates",
+            "book"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "desktop": "1587094220606-omega-ebook-template-desktop.png",
+            "mobile": "1587094220625-omega-ebook-template-mobile.png"
+        },
+        "analytics": {
+            "views": 364
+        }
+    },
+    {
+        "_id": "5e883480cb02190667635231",
+        "description": "Recruiting Agency Landing Page HTML Template",
+        "title": "Viso",
+        "slug_history": [
+            "viso"
+        ],
+        "slug": "viso",
+        "postDate": "2020-04-04T07:16:31.476Z",
+        "previewUrl": "https://inovatik.com/viso-landing-page/index.html",
+        "buyUrl": "https://inovatik.com/viso-recruiting-agency-landing-page-html-template.html",
+        "creator": {
+            "name": "Inovatik",
+            "url": "https://inovatik.com/"
+        },
+        "price": 1600,
+        "categories": [
+            "templates",
+            "landing-page",
+            "multi-purpose"
+        ],
+        "tags": [
+            "bootstrap",
+            "html"
+        ],
+        "images": {
+            "mobile": "1585984636081-viso-template-mobile.png",
+            "desktop": "1585984636101-viso-template-desktop.png"
+        },
+        "analytics": {
+            "views": 474
+        }
+    },
+    {
+        "_id": "5e5b2b99e1e7fdcb69fe8884",
+        "description": "SaaSpik is a unique and modern HTML5 Template having multi-options for Startups, App Landing &amp; SaaS based Companies. It has 4 unique landing pages with multi inner pages for various purpose. SaaSpik can serve numerous awesome features like SaaS landing, Software, Web Application, APP landing &amp; Startups or just a Blog. All HTML files are 100% responsive &amp; W3C HTML validated. Codes are commented in nicely formats and well-documented file structure.",
+        "title": "SaaSpik",
+        "slug_history": [
+            "saaspik"
+        ],
+        "slug": "saaspik",
+        "postDate": "2019-08-09T00:00:00.000Z",
+        "previewUrl": "http://saaspik.pixelsigns.art/",
+        "buyUrl": "https://themeforest.net/item/saaspik-software-app-saas-landing-html-template/24231256",
+        "creator": {
+            "name": "Pixel Signs",
+            "url": "http://pixelsigns.art/"
+        },
+        "price": 1700,
+        "categories": [
+            "templates",
+            "landing-page",
+            "startup",
+            "saas",
+            "mobile-app"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "desktop": "1583033235665-saaspik-template-desktop.png",
+            "mobile": "1583033235665-saaspik-template-mobile.png"
+        },
+        "analytics": {
+            "views": 733
+        }
+    },
+    {
+        "_id": "5e5b46ab06d296ce8f435e95",
+        "description": "Olli is a responsive HTML5 single product landing page template with a creative and mobile-friendly design. This is a great choice to launch any product.",
+        "title": "Olli",
+        "slug_history": [
+            "olli"
+        ],
+        "slug": "olli",
+        "postDate": "2019-02-19T00:00:00.000Z",
+        "previewUrl": "http://demo.harbourthemes.com/demo/olli/index-2.html",
+        "buyUrl": "https://themeforest.net/item/olli-single-product-landing-page/19429486",
+        "creator": {
+            "name": "Harbour Themes",
+            "url": "http://harbourthemes.com/"
+        },
+        "price": 1700,
+        "categories": [
+            "templates",
+            "landing-page",
+            "product"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "desktop": "1583040163883-olli-template-desktop.png",
+            "mobile": "1583040163978-olli-template-mobile.png"
+        },
+        "analytics": {
+            "views": 290
+        }
+    },
+    {
+        "_id": "5ee039bf31a2b576e654eca7",
+        "description": "Plate is a landing page that will suit all the healthy eaters. Creating a food delivery website is easy, thanks to the availability of useful functions. Among them, you are going to find a set of pre-made pages. The package also provides multiple header and footer styles. It is also possible to take advantage of eye-catching bonus images. It takes nothing to ask you a few questions using a contact form. Main Features: 1) cross-browser compatible design; 2) Google Fonts; 3) various gallery types (carousel, slider, and others); 4) testimonials; 5) social media buttons.",
+        "title": "Plate",
+        "slug_history": [
+            "plate"
+        ],
+        "slug": "plate",
+        "postDate": "2020-06-10T01:38:34.549Z",
+        "previewUrl": "https://livedemo00.template-help.com/wt_prod-20823/",
+        "buyUrl": "https://www.templatemonsterpreview.com/demo/76237.html?aff=landingfolio",
+        "creator": {
+            "name": "Template Monster",
+            "url": "https://www.templatemonster.com/"
+        },
+        "price": 1700,
+        "categories": [
+            "templates",
+            "landing-page",
+            "product"
+        ],
+        "tags": [
+            "html"
+        ],
+        "images": {
+            "desktop": "1591753145671-plate-template-desktop.png",
+            "mobile": "1591753145652-plate-template-mobile.png"
+        },
+        "analytics": {
+            "views": 705
+        }
+    }
+]
