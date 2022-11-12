@@ -1,0 +1,803 @@
+[
+    {
+        "title": "Spify",
+        "description": "Spify Business Website Bootstrap HTML Template",
+        "url": "https://inovatik.com/spify/index.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1618447125508-spify-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1618447125486-spify-template-mobile.png"
+        }
+    },
+    {
+        "title": "Landing",
+        "description": "Tailwind CSS landing page template containing: Fixed Header, Hero section - two columns for large screens and two rows for small screens, Promo and card content sections, Pricing Table and Call to Action section",
+        "url": "https://www.tailwindtoolbox.com/templates/landing-page-demo.php",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583032672319-landing-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583032672322-landing-template-mobile.png"
+        }
+    },
+    {
+        "title": "Aria",
+        "description": "Aria is a business focused free HTML landing page template built with Bootstrap to help you create lead generation websites for companies and their services. The design is clean and modern with a more restrained but efficient color scheme that will highlight your content without drawing attention from it.",
+        "url": "https://inovatik.com/aria-landing-page/index.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583033041009-aria-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583033040983-aria-template-mobile.png"
+        }
+    },
+    {
+        "title": "Corso",
+        "description": "Free landing page template built with HTML and Bootstrap for presenting training courses, classes, workshops and for convincing visitors to register using the form. It features countdown timer until the event date, image slider for previous editions, logo slider, details lightbox for additional information, video lightbox, text slider for testimonials, dropdown navigation, extra pages: article details, terms conditions, privacy policy, working registration, newsletter and contact forms.",
+        "url": "https://inovatik.com/corso-landing-page/index.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1588386468542-corso-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1588386468521-corso-template-mobile.png"
+        }
+    },
+    {
+        "title": "Fusion",
+        "description": "This page has a focus on illustrations. This may limit your ability to display screenshots, but if those aren’t required to explain your app and these illustrations fit your product, then these illustrations can work wonders. Making something visual is always good, and combined with the right headline these illustrations could visualise a lot of things. If the artwork matches your app, this one could be for you",
+        "url": "https://preview.uideck.com/items/fusion/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583033742439-fusion-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583033742443-fusion-template-mobile.png"
+        }
+    },
+    {
+        "title": "Swipe",
+        "description": "Swipe is a free mobile application One Page Bootstrap 5 Template featuring sections such as about, testimonials, frequently asked questions, and two app download CTA sections.",
+        "url": "https://demo.themesberg.com/swipe/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1597633866073-swipe-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1597633866055-swipe-template-mobile.png"
+        }
+    },
+    {
+        "title": "Social App",
+        "description": "Running a startup and embarking yourself on a new bussiness a idea can be daring, the landing page must sell your product on first sight. This landing page made with Tailwind CSS, will make your idea look awesome with nice looking illustrations from Freepik.",
+        "url": "https://tailwindcomponents.com/template/social-app-landing-page",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/components/1583032516330_landing___medialibrary_original_578_16701png",
+            "mobile": "https://landingfoliocom.imgix.net/components/1583032516238_landing___medialibrary_original_578_1670png"
+        }
+    },
+    {
+        "title": "Kairos",
+        "description": "Purple is a colour that gives off feelings of importance and value. If your app is meant to give off a sense of luxury, this colour palette could strengthen that. It also has scroll effects, with all elements fading in while scrolling. While they do halt your progress, they also make sure you at least look at every element on the page.",
+        "url": "https://templatemag.com/demo/templates/CleanLanding/index.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583033815821-kairos-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583033815820-kairos-template-mobile.png"
+        }
+    },
+    {
+        "title": "Evolo",
+        "description": "Create a stylish landing page for your business startup and get leads for the offered services with this free Bootstrap 4 based HTML landing page template. Built with Bootstrap 4, HTML/CSS and JS it features image slider for partner logos, text slider for testimonials, details lightbox for additional information, video lightbox, extra pages like terms conditions and privacy policy",
+        "url": "https://inovatik.com/evolo-landing-page/index.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583033102799-evolo-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583033102800-evolo-template-mobile.png"
+        }
+    },
+    {
+        "title": "Bolt App",
+        "description": "Tailwind CSS starter template containing: Fixed Header, Hero section - with a CSS browser window for your app/website screenshot, Promo and card content sections, Pricing Table and Call to Action section",
+        "url": "https://www.tailwindtoolbox.com/templates/screenshot-landing-page-demo.php",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583032786883-bolt-app-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583032786883-bolt-app-template-mobile.png"
+        }
+    },
+    {
+        "title": "Sync",
+        "description": "Sync is a landing page HTML template built with Bootstrap 4 for presenting mobile apps to the online audience and for getting visitors to become users.",
+        "url": "https://inovatik.com/sync-landing-page/index.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583029476417-sync-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583029476414-sync-template-mobile.png"
+        }
+    },
+    {
+        "title": "Dazzle",
+        "description": "Dazzle feels like it’s appealing to the creative types. The image as a background above the fold, the solid use of the fresh colour of green, the numbered circles describing the process and the way the screenshots are laid out almost give it a portfolio-like quality to me. This can work in your favour by making the experience feel a lot more personal. It feels like you’re dealing with a person, not a company or a product.",
+        "url": "https://demos.onepagelove.com/html/dazzle/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583034008875-dazzle-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583034008872-dazzle-template-mobile.png"
+        }
+    },
+    {
+        "title": "Neumorphism UI",
+        "description": "Start developing neumorphism (aka. neomorphism) inspired layouts, web apps and pages with this free UI Kit. It features over 200 individual components and 5 example pages. Neumorphism UI makes use of the original neumorphism design specs.",
+        "url": "https://demo.themesberg.com/neumorphism-ui/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1589693997704-neumorphism-ui-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1589693997724-neumorphism-ui-template-mobile.png"
+        }
+    },
+    {
+        "title": "The SEO Company",
+        "description": "Above the fold it’s direct and to-the-point. There’s a phone with a screenshot, a CTA and a headline. This, combined with the bold font, really allows the headline to steal the show. If you have a strong value proposition, it won’t be lost here. Otherwise, this template gains its visual appeal from the smaller things like the polka dots and circles around the second screenshot and the limited, subtle use of colour which simultaneously allows the colour to pop more.",
+        "url": "https://technext.github.io/the-seo-company/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583033927803-the-seo-company-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583033927804-the-seo-company-template-mobile.png"
+        }
+    },
+    {
+        "title": "Leno",
+        "description": "Leno is a free mobile app HTML landing page template which helps designers and developers present their mobile apps to the online audience and grow their user base. It features a stylish dark design with modern touches to provide a memorable experience to the online visitor. It offers all the sections required to present a mobile application and a fully functioning contact form.",
+        "url": "https://inovatik.com/leno-landing-page/index.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583033512043-leno-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583033512036-leno-template-mobile.png"
+        }
+    },
+    {
+        "title": "Laurel",
+        "description": "Laurel is clearly going for the modern, cool and stylish vibe. It’s warm colours, dark colour pallette and serif font build this feeling quite well. This page is not meant just to show off features. This one is much better for apps that primarily score on style. This one’s for apps that people get because they’re cool and stylish, not per se because it’ll functionally help them.",
+        "url": "https://preview.cruip.com/laurel/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583033640231-laurel-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583033640227-laurel-template-mobile.png"
+        }
+    },
+    {
+        "title": "Avid",
+        "description": "Avid is a free SaaS app landing page template built with Bootstrap and HTML to help you create beautiful and efficient online presentations for your web apps and convince visitors to sign up.",
+        "url": "https://inovatik.com/avid-landing-page/index.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/components/1594708890305_avidlandingpagetemplatedesktoppng",
+            "mobile": "https://landingfoliocom.imgix.net/components/1594708889926_avidlandingpagetemplatemobilepng"
+        }
+    },
+    {
+        "title": "Tivo",
+        "description": "Tivo is a free HTML landing page template built with Bootstrap to help you crate engaging presentation websites for SaaS apps and convert visitors into users. Tivo features a clean, light design style which together with the tech blue color scheme will create a memorable experience for your online visitors and persuade them to start using your SaaS app.",
+        "url": "https://inovatik.com/tivo-landing-page/index.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583032965084-tivo-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583032965084-tivo-template-mobile.png"
+        }
+    },
+    {
+        "title": "Tailwind Starter Kit",
+        "description": "Tailwind Starter Kit is Free and Open Source. It does not change or add any CSS to the already one from TailwindCSS. It features multiple HTML elements and it comes with dynamic components for ReactJS, Vue and Angular.",
+        "url": "https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/components/1583032292483_screencapturecreativetimlearninglabtailwindstarterkit2020030111_10_25png",
+            "mobile": "https://landingfoliocom.imgix.net/components/1583032291902_screencapturecreativetimlearninglabtailwindstarterkit2020030111_11_08png"
+        }
+    },
+    {
+        "title": "AppLanding",
+        "description": "Ten templates, four colors, three devices, unlimited possibilities. Give your app the podium it deserves with AppLanding, a simple app landing page template easily customizable to your style. Made with Bootstrap 4 HTML.",
+        "url": "https://www.landingfolio.com/store/applanding/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583029278652-applanding-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583029278607-applanding-template-mobile.png"
+        }
+    },
+    {
+        "title": "Lintense",
+        "description": "Lintense is an all-in-one landing page template that claims to provide web-masters with a large number of essential options. The package contains 12 beautifully-designed templates for different purposes. It also includes an easy-to-use Novi Builder that allows editing your content without any coding knowledge.",
+        "url": "https://livedemo00.template-help.com/wt_prod-25028/lintense-2.0/lintense/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583029207666-lintense-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583029207661-lintense-template-mobile.png"
+        }
+    },
+    {
+        "title": "Howdy",
+        "description": "Howdy is a clean and modern high-converting landing page template, very easy to customize according to your needs. This landing page template can be used to promote web apps, mobile apps and all kind of marketing and startup websites. Quick and easy to setup.",
+        "url": "http://demo.epic-webdesign.com/tf-howdy/v1/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583040423674-howdy-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583040423692-howdy-template-mobile.png"
+        }
+    },
+    {
+        "title": "Appilo",
+        "description": "Appilo App Landing page Template is a Creative & Unique Design Clean and Responsive HTML5/CSS3 App landing page based on Bootstrap All files are clearly organised we believe it will be easy to use and edit them. This template is well organized and very easy to customize.",
+        "url": "http://themexriver.com/tfhtml/appilo/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583040747687-appilo-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583040747673-appilo-template-mobile.png"
+        }
+    },
+    {
+        "title": "Omega",
+        "description": "Omega is a HTML5 landing page template for Saas Products, Software, Startups, Apps and many other related services. It is 100% responsive in all devices and built on top of Bootstrap 4 framework.",
+        "url": "https://demos.grayic.com/omega/landing-5.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1586430876796-omega-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1586430876776-omega-template-mobile.png"
+        }
+    },
+    {
+        "title": "Rupa",
+        "description": "Rupa is a single product landing page html5 template. You can use it for online product marketing purposes. Anyone can use it both digital or physical product marketing purposes. It is 100% responsive landing page. You can easily customize it without any trouble.",
+        "url": "http://rexbd.net/html/rupa/demo/index.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583040048130-rupa-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583040048125-rupa-template-mobile.png"
+        }
+    },
+    {
+        "title": "Siroon",
+        "description": "Siroon is unique and modern landing page design for showing off your mobile app. Built on Bootstrap v4 and being fully responsive, this template is sure to serve your needs regardless of what your app is.",
+        "url": "http://aramvardanyan.me/siroon/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583040582360-siroon-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583040582356-siroon-template-mobile.png"
+        }
+    },
+    {
+        "title": "Ramio",
+        "description": "Ramio is clean and solid coming soon and landing page HTML template. Create excitement around your brand with Ramio! Ramio comes with 4 color skins and 16 ready-to-use demo variations – ñhoose the best for your start. Beautifully animated content sections with smooth transition effect will help you to represent your brand at its best.",
+        "url": "http://mixdesign.club/themeforest/ramio/index-monochrome-image.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583041380249-ramio-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583041380257-ramio-template-mobile.png"
+        }
+    },
+    {
+        "title": "Portum",
+        "description": "Portum is a HTML5 template based on Boostrap4.x for variety of single product landing pages. It’s come with modern layout & clean design. Portum has 3 unique landing page with 6 different option for each landing page, and it included 10 different color preset, so matched with you brand. Also you can set your own color & it’s very easy to use.",
+        "url": "http://demo.themesurf.com/portum/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583035430579-portum-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583035430574-portum-template-mobile.png"
+        }
+    },
+    {
+        "title": "MobiCom",
+        "description": "MobiCom is a pixel perfect Mobile App Landing Pages Big Pack crafted with terrific attention to details. It was designed to promote your mobile App, services or business projects",
+        "url": "https://html.dynamiclayers.net/at/enovo/index.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583040951600-mobicom-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583040951596-mobicom-template-mobile.png"
+        }
+    },
+    {
+        "title": "AppSet",
+        "description": "A great collection of flexible, ultra-modern & creative landing page templates to promote your mobile App, services or business projects",
+        "url": "https://dsathemes.com/html/appset/files/demo-3.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1584594840880-appset-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1584594840861-appset-template-mobile.png"
+        }
+    },
+    {
+        "title": "ReadyMade",
+        "description": "Ready Made is a Multipurpose Landing Page Template Bundle designed to use for any kind of local business or startups. Clean and Modern design. Best Conversion optimized Landing page Template. 10+ Responsive HTML layouts including Email contact form, lead generation, click-through, Ajax Mailchimp Subscription, Click to call, Video, Web App, Mobile App, Blog page etc… Easily customizable landing pages.",
+        "url": "https://demo.web3canvas.com/themeforest/readymade/default.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583040345770-readymade-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583040345775-readymade-template-mobile.png"
+        }
+    },
+    {
+        "title": "AppSet",
+        "description": "A great collection of flexible, ultra modern & creative landing page templates to promote your mobile App, services or business projects",
+        "url": "https://dsathemes.com/html/appset/files/demo-4.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1584594943749-appset-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1584594943738-appset-template-mobile.png"
+        }
+    },
+    {
+        "title": "Adele",
+        "description": "Adele is a responsive HTML Landing page for promoting supplementary products. The template is perfect for both lead generation and conversion purposes with easy customization and user-friendly layout.",
+        "url": "http://divsketch.com/adele/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583040232339-adele-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583040232343-adele-template-mobile.png"
+        }
+    },
+    {
+        "title": "Kinetic",
+        "description": "Kinetic is an elegant, luxury and trendy App Landing HTML5 template. It is a very simple, clean and minimalist template. It perfectly suited for the website of App, software. The template looks great and it will appeal to fans of minimalist style. Template content is based on Bootstrap System.",
+        "url": "http://nunforest.com/kinetic/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583040821189-kinetic-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583040821185-kinetic-template-mobile.png"
+        }
+    },
+    {
+        "title": "Lintense",
+        "description": "If you want to succeed in the world of educational courses, you need to establish an excellent online presence. Together with this multi-functional landing page template, you can achieve this goal. It offers a fully-editable nature. You are free to make all the edits you consider to be important. To make your website more engaging, it is possible to add a few animation effects. People get a chance to choose the desired course, thanks to a user-friendly booking form. In addition to this, you will get a cross-browser compatible design. Your visitors can view your pieces of content using all the modern browsers.",
+        "url": "https://www.templatemonster.com/demo/87738.html?aff=landingfolio&utm_campaign=course_landingfolio&utm_source=landingfolio&utm_medium=referral",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1587540542134-lintense-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1587540542116-lintense-template-mobile.png"
+        }
+    },
+    {
+        "title": "Omega eBook",
+        "description": "Omega is a HTML5 landing page template for various types of Saas Products, Software, Startups, Apps and many other related services. It is 100% responsive in all devices and looks beautiful on every single device! Your users will love your site because it gives them a unique user experience (UX), clean, modern & beautiful design. They are also easy to customize and to combine with other components.",
+        "url": "https://demos.grayic.com/omega/landing-6.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1587094220606-omega-ebook-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1587094220625-omega-ebook-template-mobile.png"
+        }
+    },
+    {
+        "title": "Viso",
+        "description": "Recruiting Agency Landing Page HTML Template",
+        "url": "https://inovatik.com/viso-landing-page/index.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1585984636101-viso-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1585984636081-viso-template-mobile.png"
+        }
+    },
+    {
+        "title": "SaaSpik",
+        "description": "SaaSpik is a unique and modern HTML5 Template having multi-options for Startups, App Landing &amp; SaaS based Companies. It has 4 unique landing pages with multi inner pages for various purpose. SaaSpik can serve numerous awesome features like SaaS landing, Software, Web Application, APP landing &amp; Startups or just a Blog. All HTML files are 100% responsive &amp; W3C HTML validated. Codes are commented in nicely formats and well-documented file structure.",
+        "url": "http://saaspik.pixelsigns.art/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583033235665-saaspik-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583033235665-saaspik-template-mobile.png"
+        }
+    },
+    {
+        "title": "Olli",
+        "description": "Olli is a responsive HTML5 single product landing page template with a creative and mobile-friendly design. This is a great choice to launch any product.",
+        "url": "http://demo.harbourthemes.com/demo/olli/index-2.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583040163883-olli-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583040163978-olli-template-mobile.png"
+        }
+    },
+    {
+        "title": "Plate",
+        "description": "Plate is a landing page that will suit all the healthy eaters. Creating a food delivery website is easy, thanks to the availability of useful functions. Among them, you are going to find a set of pre-made pages. The package also provides multiple header and footer styles. It is also possible to take advantage of eye-catching bonus images. It takes nothing to ask you a few questions using a contact form. Main Features: 1) cross-browser compatible design; 2) Google Fonts; 3) various gallery types (carousel, slider, and others); 4) testimonials; 5) social media buttons.",
+        "url": "https://livedemo00.template-help.com/wt_prod-20823/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1591753145671-plate-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1591753145652-plate-template-mobile.png"
+        }
+    },
+    {
+        "title": "Pofo",
+        "description": "POFO is a highly creative, modern, visually stunning and Bootstrap responsive multipurpose corporate and portfolio HTML5 template with 26 ready home page demos",
+        "url": "http://www.themezaa.com/html/pofo/home-portfolio-minimal.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583039449984-pofo-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583039449991-pofo-template-mobile.png"
+        }
+    },
+    {
+        "title": "Proland",
+        "description": "Launching a new product? Looking for a kick-ass landing page to market your product? Want to start pre-ordering for your product or to collect emails of interested customers? Need a premium landing page which can be set up and go live in less than an hour? If your answer is yes to any of the questions above, Then Proland is what you are looking for. Proland is a sophisticated Premium Product landing Page Template built for Makers of Cool Products and Gadgets.",
+        "url": "https://demo.web3canvas.com/themeforest/proland/index.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583035296979-proland-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583035296952-proland-template-mobile.png"
+        }
+    },
+    {
+        "title": "sUp",
+        "description": "If you need a high-quality HTML template for a startup-related landing page, check out this variant. The package includes many useful features to gladden your audience. Among them, you can find several animation effects, a gallery, and a contact form. It also integrates Google Fonts to make your texts more eye-catching.",
+        "url": "https://livedemo00.template-help.com/wt_prod-25843/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583927253187-sup-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583927253167-sup-template-mobile.png"
+        }
+    },
+    {
+        "title": "Book",
+        "description": "Responsive Ebook Landing Page Template",
+        "url": "http://csmthemes.com/themes/book/bg/default/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1584595132100-book-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1584595132080-book-template-mobile.png"
+        }
+    },
+    {
+        "title": "Neer",
+        "description": "NEER is a premium HTML5 template for real estate related websites which is built with the twitter bootstrap (version: 4.0.0). This template is suitable for any agency, agent, property, real estate, rental, retina ready, real estate, corporate, apartment. The whole template is made with excellent responsiveness. It provides FIVE (5) different layouts of HOME page. It also contains 50+ individual HTML files with 100% responsive & W3C HTML validate coding.",
+        "url": "https://storage.googleapis.com/themevessel-products/neer/index.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583034884227-neer-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583034884216-neer-template-mobile.png"
+        }
+    },
+    {
+        "title": "Bauhaus",
+        "description": "Bauhaus is evaluated an unique & trendy HTML template for architecture & interior company with clean and modern design. With design minimal and focus on show projects, Bauhaus will make your work look more impressive and attractive to viewers. You can use it for a lot of website such as architecture companies, interior studio, construction, furniture or simply just personal websites need to show portfolio with a look creative and impressive more.",
+        "url": "https://paul-themes.com/html/bauhaus/demo/light/index.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583035167617-bauhaus-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583035167583-bauhaus-template-mobile.png"
+        }
+    },
+    {
+        "title": "Clean Doc",
+        "description": "A modern landing page template focused on the user experience and quick access to all the necessary options. It is based on Bootstrap. For this reason, one is going to get an easy-to-use customization process. You have the freedom to change all the elements according to your vision. It is also possible to choose from two color modes. Of course, these include a light and dark mode. By the way, a dark mode is a default. Main Features: 1) fully-responsive design; 2) full calendar; 3) testimonials, staff, pricing, and other pre-designed pages; 4) newsletter subscription; 5) contact form.",
+        "url": "https://cleandoc-8169b.web.app/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1591753297028-clean-doc-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1591753297008-clean-doc-template-mobile.png"
+        }
+    },
+    {
+        "title": "MUU",
+        "description": "MUU is a creative, unique design, minimal and onepage vCard / Resume HTML5 template to showcase your resume and portfolio to the world in interactive way. Each and every section is detailed designed with creative eye and of course navigating different sections is really smooth, user-friendly and something different. MUU includes light and dark skin as well as some other helpful templates for blog listing, blog detail and coming soon page with working AJAX PHP forms.",
+        "url": "http://www.themezaa.com/html/muu/white/index.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583039381861-muu-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583039381958-muu-template-mobile.png"
+        }
+    },
+    {
+        "title": "Canopus",
+        "description": "A multi-functional HTML template designed to provide your visitors with advanced user-experience. It has a fully-responsive design. People can browse your content using desktop and mobile devices. The package has a powerful Ajax search that allows finding the necessary information in a jiffy. They can also add the chosen items to the cart in one click.",
+        "url": "http://tortoizthemes.com/canopus-html/canopus/app.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583924101646-canopus-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583924101628-canopus-template-mobile.png"
+        }
+    },
+    {
+        "title": "Zoner",
+        "description": "Zoner is Real Estate HTML template fully loaded with awesome features. Zoner brings the OpenStreetMap support as the first template on ThemeForest! You get also styled Google Maps as well, so you can decided which map provider you want to choose.",
+        "url": "http://themestarz.net/html/zoner/index-slider-horizontal-search-box-floated.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583035017239-zoner-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583035017296-zoner-template-mobile.png"
+        }
+    },
+    {
+        "title": "SaasFolio",
+        "description": "SaasFolio is a conversion-optimized landing page template for SaaS and Startups. It differences itself from other templates, by focussing on strong sales copy.\n\nSales copy is the most important aspect of a landing page. We've noticed that a lot of makers do not know how to come up with this content. Therefore all copy on the landing page helps you craft a strong message for your visitors.\n\nThis way, we can assure you that this landing page will definitely increase your conversion rate.",
+        "url": "https://www.landingfolio.com/templates/products/saasfolio",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/components/1586676833559_saasfoliotemplatedesktopjpg",
+            "mobile": "https://landingfoliocom.imgix.net/components/1586676833462_saasfoliotemplatemobilejpg"
+        }
+    },
+    {
+        "title": "Ciel",
+        "description": "Ciel is a SaaS app website template built with HTML and Bootstrap for presenting SaaS apps to the online audience while convincing visitors to sign up and start using them.\n\nBuilt with Bootstrap 4, HTML/CSS and JS it features details lightbox for additional information, card slider for small features, video lightbox for video presentation, statistics numbers for important values and dropdown navigation.\n\nIncluded extra pages: article, pricing, features, terms, privacy, log in, contact.\n\nCiel’s clean design with blue color accents creates a tech innovation atmosphere that enables visitors to focus on the content while making a positive impact on their perception for your SaaS or web app.",
+        "url": "https://inovatik.com/ciel-landing-page/index.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1605062315774-ciel-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1605062315752-ciel-template-mobile.png"
+        }
+    },
+    {
+        "title": "Nova Pro",
+        "description": "Nova Pro is a Bootstrap template made for mobile apps. It’s the perfect design and marketing framework for any app startup. It contains all the essential pages and design elements for building your app’s online presence.",
+        "url": "https://themes.3rdwavemedia.com/nova-pro/bs4/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583033333856-nova-pro-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583033333855-nova-pro-template-mobile.png"
+        }
+    },
+    {
+        "title": "CoderPro",
+        "description": "CoderPro is a Bootstrap 4 startup template made for software developers. You can use this template to promote or sell your JavaScript library, jQuery plugin, browser extension, CMS plugin, mobile app or open source project. It will present your project in the most professional way possible to gain initial traction from your potential users.",
+        "url": "https://themes.3rdwavemedia.com/coderpro/bs4/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583033436419-coderpro-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583033436423-coderpro-template-mobile.png"
+        }
+    },
+    {
+        "title": "Monstroid2",
+        "description": "Implement your website-building ideas into life together with this multipurpose WordPress theme. There are 48 skins to choose from. You will also enjoy 50 blog layouts and 10 single post variations. The templates are built on top of Elementor Page Builder, for easy editing.",
+        "url": "https://www.templatemonster.com/wordpress-themes/monstroid2.html?aff=landingfolio&utm_campaign=blog_site_landingfolio&utm_source=monstroid2&utm_medium=referral",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/components/1583041790877_screencaptureldwp73templatehelpmonstroid2landing2020030113_44_05png",
+            "mobile": "https://landingfoliocom.imgix.net/components/1583041778093_screencaptureldwp73templatehelpmonstroid2landing2020030113_44_541png"
+        }
+    },
+    {
+        "title": "SasPik",
+        "description": "SasPik is a modern WordPress theme having multi-options for Startups, App Landing & SaaS based Companies. It has 3 unique landing pages with multi inner pages for various purpose. SasPik WordPress theme can serve numerous awesome features like SaaS landing, Software, Web Application, APP landing & Startups or just a Blog.",
+        "url": "http://saaspik-wp.pixelomatic.com/demo/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583032878250-saspik-landing-wordpress-theme-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583032878247-saspik-landing-wordpress-theme-template-mobile.png"
+        }
+    },
+    {
+        "title": "Rareblocks",
+        "description": "ClarityUI is a minimalistic UI kit with over 90 components for your landing page, fully build using TailwindCSS. This UI kit adapt itself very well and fits into any design project instantly with minimal need for style changes.",
+        "url": "https://landingfolio.com/api/store/template/preview/61b5c29986328e8557b61a91",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1639369295489-rareblocks-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1639369295503-rareblocks-template-mobile.png"
+        }
+    },
+    {
+        "title": "ClarityUI",
+        "description": "ClarityUI is a minimalistic UI kit with over 90 components for your landing page, fully build using TailwindCSS. This UI kit adapt itself very well and fits into any design project instantly with minimal need for style changes.",
+        "url": "https://landingfolio.com/api/store/template/preview/61b5c30d86328e8557b61aab",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1639369173546-clarityui-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1639369173561-clarityui-template-mobile.png"
+        }
+    },
+    {
+        "title": "YUK",
+        "description": "YUK is a gorgeous, creative, aesthetically & technically proficient portfolio WordPress theme. Built with Grid and WPBakery Page Builder (Visual Composer), this theme puts the power to mold & shape your website in your hands. It includes portfolios, galleries, fullscreens, blogs for designers to create a unique website. You can literally build portfolio site of any niche with this stunning theme.",
+        "url": "http://wp.themedemo.co/yuk/portfolio-9/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583039586697-yuk-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583039586701-yuk-template-mobile.png"
+        }
+    },
+    {
+        "title": "Exponent",
+        "description": "Exponent is a modern business WordPress theme, that lets you build stunning high-performance websites using a fully visual interface. The theme comes with 26 premium pre-built demo websites, that you can use as a starting point for your website. Exponent has been built by the same team behind Oshine, one of the all-time best-selling themes with over 26,000 customers.",
+        "url": "https://exponentwptheme.com/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1592965820803-exponentwptheme-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1592965820784-exponentwptheme-template-mobile.png"
+        }
+    },
+    {
+        "title": "Exponent",
+        "description": "Exponent is a modern business WordPress theme, that lets you build stunning high-performance websites using a fully visual interface. The theme comes with 26 premium pre-built demo websites, that you can use as a starting point for your website. Exponent has been built by the same team behind Oshine, one of the all-time best-selling themes with over 26,000 customers.",
+        "url": "https://exponentwptheme.com/saas/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1592965903670-exponent-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1592965903669-exponent-template-mobile.png"
+        }
+    },
+    {
+        "title": "Exponent",
+        "description": "Exponent is a modern business WordPress theme, that lets you build stunning high-performance websites using a fully visual interface. The theme comes with 26 premium pre-built demo websites, that you can use as a starting point for your website. Exponent has been built by the same team behind Oshine, one of the all-time best-selling themes with over 26,000 customers.",
+        "url": "https://exponentwptheme.com/book/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1592965995789-exponent-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1592965995808-exponent-template-mobile.png"
+        }
+    },
+    {
+        "title": "Parrot",
+        "description": "Parrot is a modern, beautifully designed Bootstrap blog template. It has a minimalistic, distraction-free, modern design, and thoughtful UX. It’s the perfect solution for engaging with your readers, growing an email list, and reaching new, organic traffic from Google.",
+        "url": "https://a.paddle.com/v2/click/36856/101217?link=2436",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1588987596940-parrot-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1588987596959-parrot-template-mobile.png"
+        }
+    },
+    {
+        "title": "Simple",
+        "description": "Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.",
+        "url": "https://preview.cruip.com/simple/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1603886526946-preview.cruip-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1603886526925-preview.cruip-template-mobile.png"
+        }
+    },
+    {
+        "title": "Windyblocks",
+        "description": "Wireframing and prototyping can be time consuming. Windyblocks, the prototyping kit for Tailwind CSS, comes in its final version with more than 150 handcrafted Tailwind CSS components. Ready to be copied and pasted into your next website.",
+        "url": "https://www.themes.dev/preview/windyblocks/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1613731187620-windyblocks-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1613731187743-windyblocks-template-mobile.png"
+        }
+    },
+    {
+        "title": "Foundation",
+        "description": "Foundation is a bootstrap landing page template for startups and businesses. We created a theme that didn’t demand you to be a coding whizz. Foundation templates were built to save you time and money while you create a stunning website that stands out. Customization is key to innovative designs, so this HTML can easily be customized to deliver a unique responsive bootstrap landing page template. You can change every detail you want: colors, fonts and images. And don’t hesitate to insert images of your product, texts, and features. It’s all possible.",
+        "url": "https://a.paddle.com/v2/click/36856/101217?link=2435",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583029697479-foundation-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583029697561-foundation-template-mobile.png"
+        }
+    },
+    {
+        "title": "Twist",
+        "description": "Twist is a modern and fresh landing page template for startups. This resource comes with 4 pages rich of ready-made components, custom SVG illustrations, and it's available to download in HTML, React, Vue.js, and Sketch! This price includes exclusive access to Twist, and 14 more beautifully-designed templates!",
+        "url": "https://preview.cruip.com/twist",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1591514719260-twist-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1591514719238-twist-template-mobile.png"
+        }
+    },
+    {
+        "title": "Launch",
+        "description": "Launch is a modern website template perfect for marketing your SaaS business. It helps you to launch your product and grow your business. It includes all the essential pages and components for any small to medium-sized software business.",
+        "url": "https://themes.3rdwavemedia.com/launch/bs4/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1588389737840-launch-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1588389737860-launch-template-mobile.png"
+        }
+    },
+    {
+        "title": "Marketplace",
+        "description": "Marketplace is a responsive website template for creators of digital products who sell digital products on Creative Market, UI8, and Envato etc. It helps them to create a website, build an email list of customers, and sell their stuff. Perfectly designed, coded, animated.",
+        "url": "https://a.paddle.com/v2/click/36856/101217?link=2432",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1588986795597-marketplace-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1588986795598-marketplace-template-mobile.png"
+        }
+    },
+    {
+        "title": "Open PRO",
+        "description": "Landing template for startups. Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.",
+        "url": "https://preview.cruip.com/open-pro/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1598611212223-preview.cruip-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1598611212203-preview.cruip-template-mobile.png"
+        }
+    },
+    {
+        "title": "Cube",
+        "description": "Cube is a dark and modern landing page template for startups. It comes with 3 pages rich of ready-made components, custom SVG illustrations, and it's available to download in HTML, React, Vue.js, and Sketch! This price includes exclusive access to Cube, and 13 more beautifully-designed templates!",
+        "url": "https://preview.cruip.com/cube/index.html",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1582164524134-cube-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1582164524137-cube-template-mobile.png"
+        }
+    },
+    {
+        "title": "vApp",
+        "description": "vApp is a complete WordPress App Landing Page Theme, built on top of WordPress and used Elementor Page Builder to make your life easier than ever. Display your app or digital products with vApp with just a few minutes of work!",
+        "url": "http://themes.dhrubok.website/vapp/home-13/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583040656779-vapp-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583040656775-vapp-template-mobile.png"
+        }
+    },
+    {
+        "title": "Blomma",
+        "description": "Unleash your creativity with our dazzling portfolio theme – Blomma! Designed in modern style and packed with a superb collection of elements, Blomma shines in every detail! With its 15 stunning homepages and a beautiful set of fully customizable inner pages, this portfolio WordPress theme provides you with everything for an impressive creative portfolio.",
+        "url": "https://blomma.qodeinteractive.com/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583035620452-blomma-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583035620460-blomma-template-mobile.png"
+        }
+    },
+    {
+        "title": "Brynn",
+        "description": "Welcome to Brynn, your new portfolio! It’s a theme streamlined to provide you with everything your portfolio can ever need. Creating a professional portfolio website is as easy as it gets! Whether you are in freelance, illustration, art direction, design, or perhaps you are an artist, a design agency or any other type of creative, Brynn has you covered! Innovative design solutions fused with pastel colors and serif font throughout the theme are sure to give you that modern feel, all while being easy to customize; your portfolio can look however you want.",
+        "url": "http://brynn.elated-themes.com/portfolio-pinterest/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583039877914-brynn-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583039877922-brynn-template-mobile.png"
+        }
+    },
+    {
+        "title": "Oshine",
+        "description": "Oshine is a popular, creative WordPress theme used by 21500+ customers across the world. From Portfolio, Photography, Agency, Blog, Architecture, Business or Shop, build beautiful websites for any purpose with ease.",
+        "url": "https://oshinewptheme.com/v38/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583034279936-oshine-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583034279880-oshine-template-mobile.png"
+        }
+    },
+    {
+        "title": "Werkstatt",
+        "description": "Werkstatt is a great portfolio template for everyone from creative individuals to agencies. Featuring multiple stunning Portfolio WordPress themes, Werkstatt is a great way to showcase what you have in store.",
+        "url": "https://werkstatt.fuelthemes.net/werkstatt-rudiger/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583039941265-werkstatt-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583039941201-werkstatt-template-mobile.png"
+        }
+    },
+    {
+        "title": "Leaf",
+        "description": "We created Leaf to provide non-profit organizations a platform through which they can efficiently send their message to the world. It's clean and it is the best non-profit environmental theme ever created. We put a lot of focus on scientific data about climate change.",
+        "url": "https://secure.2checkout.com/affiliate.php?ACCOUNT=250175845986&AFFILIATE=129183&PATH=https%3A%2F%2Fdemo.themesberg.com%2Fleaf%2F%3FAFFILIATE%3D129183",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1585545183275-leaf-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1585545183295-leaf-template-mobile.png"
+        }
+    },
+    {
+        "title": "Grand Portfolio",
+        "description": "Grand Portfolio is a portfolio focus design tool. It provides responsive clean and minimal Wordpress theme for creative portfolio web site. Using the latest Wordpress technology and support various of popular WordPress plugins. Grand Portfolio supports responsive layout so it looks great on all devices. It has predefined styling for architects, creative agency, photographer, creative designer, musician & band, publisher and many more which can be imported with one click.",
+        "url": "http://themes.themegoods.com/grandportfolio/demo3/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583039664888-grand-portfolio-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583039664856-grand-portfolio-template-mobile.png"
+        }
+    },
+    {
+        "title": "Adios Portfolio",
+        "description": "Adios is a design-driven, aesthetically sophisticated & technically proficient portfolio WordPress theme. Built with visual composer (Drag & Drop interface), this theme puts the power to mold & shape your website in your hands. Adios is entirely responsive, and it works well on tablets, smartphones, and desktop computers. With 9+ homepage layouts and a stack of portfolio options, you are guaranteed to get a bang for your buck. You can literally build a portfolio site of any niche with this stunning theme.",
+        "url": "http://themebubble.com/demo/adios/home-2/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583039737859-adios-portfolio-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583039737835-adios-portfolio-template-mobile.png"
+        }
+    },
+    {
+        "title": "Leo",
+        "description": "Leo is a premium Bootstrap 4 Template for agencies. With a bold, stylish and unique design you can make a website that any great agencies deserve.",
+        "url": "https://secure.2checkout.com/affiliate.php?ACCOUNT=250175845986&AFFILIATE=129183&PATH=https%3A%2F%2Fdemo.themesberg.com%2Fleo%2F%3FAFFILIATE%3D129183",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1585545025188-leo-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1585545025170-leo-template-mobile.png"
+        }
+    },
+    {
+        "title": "Leaf",
+        "description": "We created Leaf to provide non-profit organizations a platform through which they can efficiently send their message to the world. It's clean and it is the best non-profit environmental theme ever created. We put a lot of focus on scientific data about climate change.",
+        "url": "https://secure.2checkout.com/affiliate.php?ACCOUNT=250175845986&AFFILIATE=129183&PATH=https%3A%2F%2Fdemo.themesberg.com%2Fleaf%2F%3FAFFILIATE%3D129183",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1585545183275-leaf-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1585545183295-leaf-template-mobile.png"
+        }
+    },
+    {
+        "title": "Kalium",
+        "description": "Kalium is a creative WordPress theme that will showcase your Portfolio, Agency, Photography, Travel Agency, Corporate, Business, Fitness Center, Restaurant, Hotel, Medical, Construction, Law Firm, Product Landing page, Education, Automotive site or your just a Blog, just everything is possible with Kalium.",
+        "url": "https://demo.kaliumtheme.com/agency/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583034376202-kalium-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583034376199-kalium-template-mobile.png"
+        }
+    },
+    {
+        "title": "Brooklyn",
+        "description": "Brooklyn is a popular WordPress theme for any purpose with 42 complete pre-built websites in 1 click trusted and loved by over 30,000 users worldwide.",
+        "url": "https://themeforest.unitedthemes.com/wpversions/brooklyn/demo23/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583034455994-brooklyn-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583034455995-brooklyn-template-mobile.png"
+        }
+    },
+    {
+        "title": "Avada",
+        "description": "Avada is the #1 selling WordPress theme on the market. Simply put, it is the most versatile, easy to use multi-purpose WordPress theme. It is truly one of a kind, other themes can only attempt to include the vast network options that Avada includes. Avada is all about building unique, creative and professional websites through industry leading options network without having to touch a line of code.",
+        "url": "https://avada.theme-fusion.com/seo/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583034620041-avada-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583034620037-avada-template-mobile.png"
+        }
+    },
+    {
+        "title": "Cesis",
+        "description": "Modern Business – Just another cesis Sites siteCesis, is a new kind of Theme. In few words, it is the most powerful, easy to use versatile multi-purpose WordPress theme. We built Cesis in order to let the user have the possibility to modify and control every parts of their site, and this really easily. Everything in Cesis can be created from the front-end without having to know how to code, our theme options panel also let the user modify each part of the site separately and will also let you modify your header, footer, menus, colors, layout etc directly live from the front-end.",
+        "url": "https://cesis.co/modern-business/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1583035531012-cesis-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1583035530976-cesis-template-mobile.png"
+        }
+    },
+    {
+        "title": "Rocket",
+        "description": "Rocket is a premium Bootstrap 4 website template created for ambitious SaaS business owners to best showcase their product. With Rocket you get all the necessary pages an online SaaS website needs such as a pricing page, support page, landing page and many more.",
+        "url": "https://secure.2checkout.com/affiliate.php?ACCOUNT=250175845986&AFFILIATE=129183&PATH=https%3A%2F%2Fdemo.themesberg.com%2Frocket%2Fpages%2Findex.html%3FAFFILIATE%3D129183",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/components/1584664637350_screencapturedemothemesbergrocketpagesindexhtml2020032008_36_28png",
+            "mobile": "https://landingfoliocom.imgix.net/components/1584664636779_screencapturedemothemesbergrocketpagesindexhtml2020032008_36_44png"
+        }
+    },
+    {
+        "title": "Milestone",
+        "description": "Convert more visitors and showcase the best features of your SaaS product with a modern, exciting website that catches the eye. Engage prospects with diverse pages, readable content, and unique interactions with Milestone.",
+        "url": "https://milestone-webflow-html-website-template.webflow.io/",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1657335380604-milestone-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1657335385402-milestone-mobile.png"
+        }
+    },
+    {
+        "title": "Lighthouse",
+        "description": "Lighthouse template is a Bootstrap website template that enables digital agencies to create their own websites. In the business routine full of customers it very often happens that the agency website template wasn’t built by them. Lighthouse template will definitely solve your problem and with a good website, you will win big times.",
+        "url": "https://a.paddle.com/v2/click/36856/101217?link=2430",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/1588986693513-lighthouse-template-desktop.png",
+            "mobile": "https://landingfoliocom.imgix.net/1588986693491-lighthouse-template-mobile.png"
+        }
+    },
+    {
+        "title": "Startup 3",
+        "description": "With Startup you can build a website online using the Bootstrap builder with ready-made designed and coded templates and themes. Get a beautiful website up and running in no time. Just choose the designs you like and start building. Unlimited pre-designed blocks, elements and Bootstrap templates you can customize.",
+        "url": "https://designmodo.com/startup/?u=3529",
+        "images": {
+            "desktop": "https://landingfoliocom.imgix.net/components/1600822267183_startup143625jpg",
+            "mobile": "https://landingfoliocom.imgix.net/components/1600822266336_startupmobile143625jpg"
+        }
+    }
+]
